@@ -1,0 +1,527 @@
+
+> ACP
+Automatic Colt Pistol, a type of ammunition.
+> Action
+The mechanism of a firearm involved with presenting the cartridge for firing, and in removing the spent casing and introducing a fresh cartridge.
+> Automatic
+A firearm which continues to fire as long as the trigger remains depressed.
+> Backstrap
+The rear of two gripstraps on a handgun, which lies beneath the heel of the hand when gripping the gun.
+> Ball
+A military term for standard, full metal jacketed ammunition.
+> Ballistics
+The science of cartridge discharge and the bullet’s flight.
+Barrel	The long tubular cylindrical part of a firearm, bored out to provide an exit path for the discharging bullet. The barrel serves the purpose of providing direction and velocity to the bullet.
+Blowback	A semi-automatic firearm whose breechblock and barrel are not mechanically locked together when fired. In such case the breechblock immediately begins to separate from the barrel upon firing. Blowback is used in comparatively low powered weapons, in which inertia of the breechblock, and cartridge wall adhesion against the chamber, are sufficient enough to retard opening until breech gas pressures have fallen to a safe level.
+Bluing	The chemical process of artificial oxidation (rusting) applied to gun parts so that the metal attains a dark blue or nearly black appearance.
+Bore	The interior of a gun barrel.
+Bore Diameter	The diameter of the inside of the barrel after boring, but before rifling. The land-to-land diameter.
+Bottle Necked	A type of cartridge whose bullet diameter is substantially less than the body diameter of the casing.
+Breech	That portion of the gun that contains the rear chamber portion of the barrel, action, trigger or firing mechanism, and the magazine.
+Breechblock	The part of the weapon that seals the rear of the chamber and supports the casehead when the cartridge is fired. Breechloading firearms are classified according to the type of action used, the mechanical means of locking it into place for firing and displacing it for reloading. i.e. “Blowback”, “Delayed Blowback”, and “Recoil” operated actions.
+Bull Barrel	A heavier, thicker than normal barrel with little or no taper.
+Bullet	The metal projectile, typically in the shape of a pointed cylinder, expelled from the mouth of a firing cartridge.
+Caliber	The diameter of the bore of a barrel measured from land to land, usually measured in tenths of an inch or in millimeters. It does not designate the actual diameter of a bullet.
+Cannelure	A groove or indention around the circumference of a bullet. Its purpose is to permit the cartridge casing to be crimped tightly against the bullet shank to hold it firmly to the casing.
+Cartridge	In modern terms, a round of ammunition consisting of casing, primer, powder and projectile. In the “percussion-cap” era, the cartridge consisted of the projectile and powder in a paper packet, with the primer cap separate.
+Casing	A cylindrical tube closed at one end that holds the primer and powder of a cartridge. The cartridge bullet is crimped into the open end of the casing. They are typically made from brass, but can be steel, aluminum, or even plastic.
+Centerfire	A cartridge in which the primer or primer assembly is seated in a pocket or recess in the center of the base of the casing (the casing head). Also, refers to a firearm which uses centerfire cartridges.
+Chamber	The part of the firearm at the rear of the barrel that is reamed out so that it will contain a cartridge for firing.
+Chamber Throat	This is the area in the barrel that is directly forward of the chamber, which tapers to the bore diameter.
+Charger	A device typically made from stamped metal which holds a group of cartridges for easy and virtually simultaneous loading into the fixed magazine of a firearm.
+Clip	This term is often used when referring to a detachable magazine. But in fact, it is a device, usually of stamped metal similar to a charger that holds a group of cartridges, and is inserted along with the cartridges into certain magazines. It is expelled after the last round in the magazine is spent.
+Cock	The term referring to the action of manually drawing the hammer back against its spring until it becomes latched against the sear, or sometimes the trigger itself, arming the hammer to be released by a subsequent pull of the trigger.
+Cylinder	A rotating cartridge holder in a revolver. The cylinder also contains the chamber portion of the revolver. Cartridges are held, and fired, within the cylinder. Cartridge chambers are evenly placed around the axis of the cylinder. The cylinder has a linkage to the firing mechanism which rotates each chamber into alignment with the barrel prior to each firing.
+Cylinder Stop	On a revolver, a spring activated device housed in the bottom of the frame beneath the cylinder that engages alignment notches in the cylinder. It stops the cylinder’s rotation and holds it in place each time a chamber in the cylinder is in alignment with the barrel.
+Delayed Blowback	A self-loading firearm whose breechblock and barrel are not positively locked together, but which incorporates a mechanism which initially restricts the breechblock from moving when fired, delaying its opening.
+Double-Action (DA)	A revolver or pistol on which a long trigger pull can both cock and release the hammer to fire the weapon. In a revolver this action also rotates the cylinder to the next chambered round. Double-Action aslo implies a single-action stage which can cock the gun separately, alternately called Double Action/Single Action or DA/SA.
+Double-Action Only (DAO)	Typically on striker-fired pistols and spurless-hammer revolvers and referring to a trigger where the firing mechanism cannot be cocked in a single-action stage. Firing always occurs as a double-action sequence where pulling the trigger both cocks and then fires the gun.
+Dovetail	A flaring machined or hand-cut slot that is also slightly tapered toward one end. Cut into the upper surface of barrels and sometimes actions, the dovetail accepts a corresponding part on which the sight is mounted.
+Ejector	The part on the firearm whose function is to throw a spent casing from the gun after firing.
+Ejector Star	On a revolver, the collective ejector, manually operated through the center of an opened cylinder, when activated, clears all chambers at once.
+Extractor	On a pistol, a part, normally hooked or crescent shaped, attached to the breechblock, which withdraws the spent casing from the chamber when the breechblock separates from the barrel after firing.
+Firing Pin	In a hammer fired gun, this is a hardened pin housed in the breechblock, centered directly behind the primer cap of a chambered cartridge. When struck by the hammer it impacts the primer cap of the cartridge, discharging the weapon.
+Frame	The common part of a handgun to which the action, barrel and grip are connected.
+Front Strap	The part of a revolver or pistol grip frame that faces forward and often joins with the trigger guard.
+GAP	Glock Auto Pistol, a type of ammunition.
+Grip	The handle used to hold a handgun. Often refers to the side-panels of the handle.
+Gripstraps	The exposed portion of a handgun’s frame, the front strap and backstrap, that provides the foundation for the handgun’s grip.
+Grooves	Spiral cuts into the bore of a barrel that give the bullet its spin or rotation as it moves down the barrel.
+Half Cock	A position of the hammer in a hammer-activated firing mechanism that acts as a manual safety.
+Hammer	That part of a revolver or pistol that impacts the firing pin or the cartridge directly, discharging the weapon. Its movement is rotational around its axis which is fixed to the frame.
+Hammer Spur	The thumbpiece on the top rear of the hammer that enables it to be manually drawn back to full cock.
+Hammerless	This general term can either refer to revolver or pistol designs that actually have hammers but are fully encased inside the frames, hammer designs where the spurs have been removed for concealment, or striker-fired pistols that are truly hammerless.
+HMR	Hornady Magnum Rimfire, a type of ammunition.
+Lands	Raised portions of the bore left between the grooves of the rifling in the bore of a firearm. In rifling, the grooves are usually twice the width of the lands.
+LC	Long Colt, a type of ammunition.
+Long Recoil	A semi-automatic pistol in which the barrel and breechblock are locked together for the full distance of rearward recoil travel, after which the barrel returns forward, while the breechblock is held back. After the barrel has fully returned, the breechblock is released to fly forward, chambering a fresh round in the process.
+LR	Long Rifle, a type of ammunition.
+Magazine	A container, either fixed to a pistol’s frame or detachable, which holds cartridges under spring pressure to be fed into the gun’s chamber.
+Magnum	A modern cartridge with a higher-velocity load or heavier projectile than standard.
+Mainspring	Term often used for the hammer spring.
+Misfire	A condition when firing a gun in which the cartridge fails to discharge.
+> Muzzle
+The forward end of the barrel where the projectile exits.
+> Muzzle Velocity
+The speed of the bullet, measured in feet per second or meters per second, as it leaves the barrel.
+> Neck
+The constricted forward section of a bottle-necked cartridge casing – the portion that grips the bullet.
+> Ogive
+A type of curve represented by the curved section of a bullet between its bearing surface and its tip.
+Open Frame	Refers to a revolver frame that has no topstrap over the cylinder.
+Pistol	Refers generally to any handgun that is not a revolver. This includes self-loaders, manual repeaters, single-shots, double or multiple barrel pistols, derringers.
+Polygonal	Rifling without hard-edged lands or grooves, typically consisting of flat surfaces that meet at angles round the bore .
+Primer	A small detonating cap fitted in the head of a centerfire cartridge casing that, when struck by a firing pin, ignites the powder charge.
+Primer Pocket	The counter bore in the center of the base of a centerfire cartridge casing in which the primer assembly is seated.
+Primer Ring	Refers to a visible dark ring created by the primers in centerfire ammunition around the firing pin hole in the frame after much use.
+Receiver	In handguns, this refers to the frame.
+Recoil-Operated	Refers to a semi-automatic pistol whose barrel and breechblock both recoil rearward in reaction to the discharging bullet. See “Short recoil” and “Long recoil”.
+Rifling	Typically, a series of spiral grooves cut into the bore of the barrel. Rifling stabilizes the bullet in flight by causing it to spin. Rifling may rotate to the right or left. See “twist”.
+Rimfire	A self-contained metallic cartridge where the primer is contained inside the hollow rim of the cartridge case. The primer is detonated by the firing pin striking the outside edge of the rim, crushing the rim against the rear face of the barrel.
+Rimless	Refers to a cartridge in which the base diameter is the same as the body diameter. The casing will normally have an extraction groove machined around it near the base, creating a “rim” at the base that is the same diameter as the body diameter.
+Round	A unit of ammunition consisting of the primer, casing, propellant and bullet. A cartridge.
+Safety	A mechanical device built into a weapon intended to prevent accidental discharge. It may be either manually operated or automatic.
+Sear	A pivoting part of the firing mechanism of a gun, either part of the trigger or an intermediate piece, that catches and holds the hammer or striker at full cock. Pressure on the trigger causes the sear to release the hammer or striker, allowing it to strike the firing pin and discharge the weapon.
+Self-Loader	Another term for semi-automatic. More commonly refers to early designs of semi-automatic pistols.
+Semi-Automatic	A pistol that is loaded manually for the first round. Upon pulling the trigger, the gun fires. Energy from the discharging bullet is used to eject the fired round, cock the firing mechanism and feed a fresh round from the magazine. The trigger must be released after each shot and pulled again to fire the next round.
+Short Recoil	Refers to a semi-automatic pistol in which the barrel and breechblock are locked together for only a short distance of rearward recoil travel, at which point the two are uncoupled, the barrel is stopped and the breechblock continues rearward, extracting the spent casing from the chamber. Upon returning forward, the breechblock chambers a fresh round and forces the barrel back into its forward position. Most modern recoil operated semi-automatic pistols use short recoil.
+Single-Action (SA)	A pistol or revolver, in which the trigger is only used for firing the weapon, and cannot be used to cock the firing mechanism. On single-action revolvers, the hammer must be manually drawn back to full cock for each shot. On pistols, the recoil action will automatically recock the hammer for the second and subsequent shots.
+Slide	The upper portion of a semi-automatic pistol that houses the barrel and contains the breechblock and portions of the firing mechanism. As its name states, it slides along tracks in the top of the frame during the recoil process providing the linkage between the breechblock and barrel.
+Slide Lever	Typically refers to a lever either on the left or right side of a pistol’s frame that is used to release the slide for removal, maintenance and cleaning.
+Solid Frame	Refers to a revolver in which the cylinder window is cut into a single solid piece of frame stock. The construction is neither break-open nor open frame. This type of revolver is loaded be the cylinder flipping out of the solid frame, or by feeding individual rounds into exposed chambers that are rotated out to the side of the frame.
+Speed Loader	In revolvers in which the entire rear of the cylinder can be exposed for loading, the speed loader is a circular device or clip that holds a complete set of cartridges aligned to insert into all chambers of the cylinder simultaneously.
+Striker	In a handgun that does not have a hammer, the striker is a linear driven, spring loaded cylindrical part which strikes the primer of a chambered cartridge. The striker replaces both the hammer and firing pin found in hammer driven pistols.
+Topstrap	The part of a revolver frame that extends over the top of the cylinder and connects the top of the standing breech with the forward portion of the frame into which the barrel is mounted.
+Trajectory	The arc described by a projectile traveling from the muzzle to the point of impact.
+Trigger	Refers to the release device in the firing system that initiates the cartridge discharge. Usually a curved, grooved or serrated piece that is pulled rearward by the shooter’s finger, which then activates the hammer or striker.
+Trigger Bar	On a semi-automatic pistol, or any other firearm in which the trigger is at some distance from the sear, this is an intermediate piece connecting the two parts.
+Trigger Guard	Usually a circular or oval band of metal, horn or plastic that goes around the trigger to provide both protection and safety in shooting circumstances.
+Twist	The rate at which rifling grooves arc around the core of the barrel, measured in calibers, inches or centimeters. Twists can arc from left-to-right or right-to-left from the rear of the barrel. This is described as either a right-hand or left-hand twist.
+WCF	Winchester Centerfire, a type of ammunition.
+WMR	Winchester Magnum Rimfire, a type of ammunition.
+
+-------------------------------------------------------------------------------------
+http://www.genitron.com/Basics/Glossary-of-Handgun-Terms
+=====================================================================================
+.45 noun
+a pistol (=small gun)
+air gun noun
+a gun that uses compressed air to fire small round bullets
+air rifle noun
+a long gun that uses compressed air to fire small round bullets
+automatic noun
+an automatic weapon
+bazooka noun
+a long gun that is carried on the shoulder and used to fire small bombs
+BB gun noun
+american a gun that shoots small round bullets called BBs using air pressure
+blunderbuss noun
+an old-fashioned gun with a long barrel that is very wide at the end
+cannon noun
+a large powerful gun used in the past that shot large solid metal balls
+cannon noun
+a large heavy gun on a ship or tank
+carbine noun
+a short light rifle
+derringer noun
+a small hand gun
+equalizer noun
+americaninformal a gun
+firearm noun
+formal a gun, especially a small gun that you hold in one hand
+flintlock noun
+an old-fashioned gun that uses a flint to start shooting
+gun noun
+a weapon that shoots bullets, for example a pistol or a rifle. You load a gun with ammunition and pull the trigger to use it
+gun noun
+a large weapon that fires objects like large bullets, for example a cannon or a mortar
+gun noun
+a starting gun used in sports competitions
+handgun noun
+a small gun that is used with one hand
+howitzer noun
+a type of large gun that soldiers use for firing missiles high into the air
+Kalashnikov noun
+a type of gun that can fire a lot of bullets very quickly
+machine gun noun
+a gun that automatically fires many bullets, one immediately after another
+magnum noun
+a large powerful gun
+mortar noun
+a large short gun that is used for firing bombs and shells over short distances
+musket noun
+a type of long gun used by soldiers before the invention of the rifle
+piece noun
+americaninformal a gun
+pistol noun
+a small gun that you hold in one hand
+revolver noun
+a small gun that holds several bullets
+rifle noun
+a large gun with a long barrel that you hold against your shoulder to fire
+Saturday night special noun
+americanmainly journalism a small inexpensive handgun that is easy to hide
+sawed-off shotgun noun
+american a shotgun with part of its barrel cut off
+shooter noun
+informal a gun
+shotgun noun
+a long gun that is used especially for hunting birds and animals
+six-shooter noun
+old-fashioned a gun that holds six bullets
+Smith and Wesson
+a type of small gun
+starting gun noun
+a small gun used for signaling the start of a race
+stun gun noun
+a weapon that produces an electric shock that makes someone unable to move for a short time
+submachine gun noun
+a light machine gun that you hold against your hip or your shoulder when shooting
+tommy gun noun
+old-fashioned a submachine gun
+Uzi
+a type of small machine gun
+semiautomatic noun
+--------------------------------------------------------------------------------
+http://www.macmillandictionary.com/us/thesaurus-category/american/types-of-gun-and-general-words-for-gun
+=================================================================================
+cover noun
+protection from attack, especially from someone with a gun
+crossfire noun
+bullets coming from two directions, fired by two people or armies who are shooting at each other
+discharge noun
+formal the act of firing a weapon
+drive-by adjective
+used for describing a situation in which someone is shot from a moving car
+drive-by noun
+the act of shooting someone from a moving car
+exchange noun
+a situation in which someone shoots at another person and the other person shoots back
+fire noun
+shots from a gun
+fire fight noun
+a fight in which guns are used, involving soldiers or the police
+friendly fire noun
+shots fired at you accidentally by soldiers from your own army
+fusillade noun
+a series of shots fired from several guns at the same time
+gun control noun
+laws that prevent people from keeping and using guns
+gunfight noun
+a fight between people using guns
+gunfire noun
+shots from guns
+gunfire noun
+the sound made by guns being shot
+gunshot noun
+the sound that is made when someone fires a gun
+marksmanship noun
+the ability to shoot skillfully
+misfire noun
+an occasion when a gun or an engine does not work in the right way
+the NRA
+the National Rifle Association: an organization in the U.S. that supports owning guns
+point-blank adverb
+with the gun held very close to the person who is shot
+range noun
+an open area of land where people can practice firing guns
+recoil noun
+the sudden backward movement of a gun when it is fired
+report noun
+formal a sudden loud noise caused by a gun or an explosion
+rifle range noun
+a place where people practice shooting with a rifle
+Russian roulette noun
+a game in which people shoot themselves with a gun that can hold six bullets but has only one in it, so that they do not know if they will be killed
+salvo noun
+an act of firing a number of guns or other weapons at the same time
+school shooting noun
+a violent act in which someone, usually a student, uses a gun to kill or injure teachers, students, and staff
+shooting noun
+an occasion when someone is attacked by a person with a gun
+shooting gallery noun
+a place where you can practice shooting objects with a gun
+shooting match noun
+a fight or competition using guns
+shoot-out noun
+a fight using guns
+shot noun
+an act of firing a gun
+shot noun
+a sound of a gun being fired
+shot noun
+used for referring to someone who regularly shoots, especially relating to how well or how badly they do it
+turkey shoot noun
+american a competition in which people shoot guns at objects
+volley noun
+a lot of shots from guns at the same time
+come under fire
+to be attacked with guns
+in the line of fire
+in a position where you will be hurt if someone shoots a gun
+------------------------------------------------------------------------------------------
+http://www.macmillandictionary.com/us/thesaurus-category/american/gunfire-and-shooting
+============================================================================================
+A[edit]
+accurize, accurizing: The process of altering a stock firearm to improve its accuracy.
+action: The physical mechanism that manipulates cartridges and/or seals the breech. The term refers to the method in which cartridges are loaded, locked, and extracted from the mechanism. Actions are generally categorized by the type of mechanism used. A firearm action is technically not present on muzzleloaders as all loading is done by hand. The mechanism that fires a muzzle-loader is called the lock.
+ammunition or ammo: Gunpowder and artillery. Since the design of the cartridge, the meaning has been transferred to the assembly of a projectile and its propellant in a single package.
+
+
+B[edit]
+back bore, backbored barrel: A shotgun barrel whose internal diameter is greater than nominal for the gauge, but less than the SAAMI maximum. Done in an attempt to reduce felt recoil, improve patterning, or change the balance of the shotgun.
+bandolier or bandoleer: A pocketed belt for holding ammunition and cartridges. It was usually slung over the chest. Bandoliers are now rare because most military arms use magazines which are not well-suited to being stored in such a manner. They are, however, still commonly used with shotguns, as individual 12 gauge shells can easily be stored in traditionally designed bandoliers.
+barrel: A tube, usually metal, through which a controlled explosion or rapid expansion of gases are released in order to propel a projectile out of the end at a high velocity.
+ballistic coefficient or BC: a measure of projectiles ability to overcome air resistance in flight. It is inversely proportional to the deceleration—a high number indicates a low deceleration. BC is a function of mass, diameter, and drag coefficient. In bullets it refers to the amount that drop over distance and wind drift will affect the bullet.
+bayonet lug: An attachment point for a bayonet.
+belt: ammunition belt is a device used to retain and feed cartridges into a firearm.
+belted magnum or belt: Any caliber cartridge, generally rifles, using a shell casing with a pronounced "belt" around its base that continues 2-4mm past the extractor groove.[1] This design originated with the British gunmaker Holland & Holland for the purpose of headspace certain of their more powerful cartridges. Especially the non-shouldered (non-"bottlenecked") magnum rifle cartridges could be pushed too far into the chamber and thus cause catastrophic failure of the gun when fired with excessive headspace; the addition of the belt to the casing prevented this over-insertion.
+bipod: A support device that is similar to a tripod or monopod, but with two legs. On firearms, bipods are commonly used on rifles to provide a forward rest and reduce motion. The bipod permits the operator to rest the weapon on the ground, a low wall, or other object, reducing operator fatigue and permitting increased accuracy.
+black powder also called gunpowder: a mixture of sulfur, charcoal, and potassium nitrate. It burns rapidly, producing a volume of hot gas made up of carbon dioxide, water, and nitrogen, and a solid residue of potassium sulfide.[2] Because of its burning properties and the amount of heat and gas volume that it generates, gunpowder has been widely used as a propellant in firearms and as a pyrotechnic composition in fireworks. Modern firearms do not use the traditional black powder described here, but instead use smokeless powder.
+black-powder substitute: A firearm propellant that is designed to reproduce the burning rate and propellant properties of black powder (making it safe for use in black-powder firearms), while providing advantages in one or more areas such as reduced smoke, reduced corrosion, reduced cost, or decreased sensitivity to unintentional ignition.
+blank: A type of cartridge for a firearm that contains gunpowder but no bullet or shot. When fired, the blank makes a flash and an explosive sound (report). Blanks are often used for simulation (such as in historical reenactments, theatre and movie special effects), training, and for signaling (see starting pistol). Blank cartridges differ from dummy cartridges, which are used for training or function testing firearms; these contain no primer or gunpowder, and are inert.
+blowback: A system of operation for self-loading firearms that obtains power from the motion of the cartridge case as it is pushed to the rear by expanding gases created by the ignition of the powder charge.[3]
+bluing or blueing: A passivation process in which steel is partially protected against rust, and is named after the blue-black appearance of the resulting protective finish. True gun bluing is an electrochemical conversion coating resulting from an oxidizing chemical reaction with iron on the surface selectively forming magnetite (Fe3O4), the black oxide of iron, which occupies the same volume as metallic iron. Bluing is most commonly used by gun manufacturers, gunsmiths and gun owners to improve the cosmetic appearance of, and provide a measure of corrosion resistance to, their firearms.
+bolt action: A type of firearm action in which the weapon's bolt is operated manually by the opening and closing of the breech (barrel) with a small handle. As the handle is operated, the bolt is unlocked, the breech is opened, the spent shell casing is withdrawn and ejected, the firing pin is cocked, and finally a new round/shell (if available) is placed into the breech and the bolt closed.
+bolt thrust or breech pressure: The amount of rearward force exerted by the propellant gases on the bolt or breech of a firearm action or breech when a projectile is fired. The applied force has both magnitude and direction, making it a vector quantity.
+bore snake: A tool used to clean the barrel of a gun.
+boresight: Crude adjustments made to an optical firearm sight, or iron sights, to align the firearm barrel and sights. This method is usually used to pre-align the sights, which makes zeroing (zero drop at XX distance) much faster.
+brass: The empty cartridge case.
+break-action: A firearm whose barrels are hinged, and rotate perpendicular to the bore axis to expose the breech and allow loading and unloading of ammunition.
+breech pressure or Bolt thrust: The amount of rearward force exerted by the propellant gases on the bolt or breech of a firearm action or breech when a projectile is fired. The applied force has both magnitude and direction, making it a vector quantity.
+bullpup: a firearm configurations in which both the action and magazine are located behind the trigger.
+burst mode: a firing mode enabling the shooter to fire a predetermined number of rounds with a single pull of the trigger.
+button rifling: Rifling that is formed by pulling a die made with reverse image of the rifling (the 'button') down the pre-drilled bore of a firearm barrel. See also cut rifling and hammer forging.
+
+
+C[edit]
+caliber/calibre: in small arms, the internal diameter of a firearm's barrel or a cartridge's bullet, usually expressed in millimeters or hundredths of an inch; in measuring rifled barrels this may be measured across the lands (such as .303 British) or grooves (such as .308 Winchester) or; a specific cartridge for which a firearm is chambered, such as .44 magnum. In artillery, the length of the barrel expressed in terms of the internal diameter.
+carbine: a shortened version of a service rifle, often chambered in a less potent cartridge or; a shortened version of the infantryman's musket or rifle suited for use by cavalry.
+cartridge: the assembly consisting of a bullet, gunpowder, shell casing, and primer. When counting, it is referred to as a "round".
+caseless ammunition: a type of small arms ammunition that eliminates the cartridge case that typically holds the primer, propellant, and projectile together as a unit.
+Casket magazine: a quad stack box magazine.
+centerfire: a cartridge in which the primer is located in the center of the cartridge case head. Unlike rimfire cartridges, the primer is a separate and replaceable component. The centerfire cartridge has replaced the rimfire in all but the smallest cartridge sizes. Except for low-powered .22 and .17 caliber cartridges, and a handful of antiques, all modern pistol, rifle, and shotgun ammunition are centerfire.
+chain gun: type of machine gun or autocannon that uses an external source of power to cycle the weapon.
+chamber: the portion of the barrel or firing cylinder in which the cartridge is inserted prior to being fired. Rifles and pistols generally have a single chamber in their barrels, while revolvers have multiple chambers in their cylinders and no chamber in their barrel.
+chambering: inserting a round into the chamber, either manually or through the action of the weapon.
+charger: a speedloader that holds several cartridges together in a single unit for easier loading of a firearm's magazine. A stripper clip is used only for loading the magazine and is not necessary for the firearm to function.
+charging handle: device on a firearm which, when operated, results in the hammer or striker being cocked or moved to the ready position.
+choke: a tapered constriction of a shotgun barrel's bore at the muzzle end. Chokes are almost always used with modern hunting and target shotguns, to improve performance
+clip: a device that is used to store multiple rounds of ammunition together as a unit, ready for insertion into the magazine of a repeating firearm. This speeds up the process of loading and reloading the firearm as several rounds can be loaded at once, rather than one round being loaded at a time.
+COL (cartridge overall length): This is the maximum overall length the cartridge can be – and – expected to function properly in magazines and the mag well of a bolt-action rifle.
+collateral damage: damage that is unintended or incidental to the intended outcome.[4] The term originated in the United States military, but it has since expanded into broader use.
+collimator sight: a type of optical "blind" sight that allows the user looking into it to see an illuminated aiming point aligned with the device the sight is attached to regardless of eye position (parallax free).[5] The user can not see through the sight so it is used with both eyes open while one looks into the sight, with one eye open and moving the head to alternately see the sight and then at the target, or using one eye to partially see the sight and target at the same time.[6] (variant names/types: "collimating sight",[7]"occluded eye gunsight" (OEG).[8])
+combination gun: a shoulder-held firearm that has two barrels; one rifle barrel and one shotgun barrel. Most combination guns are of an over-under design (abbreviated as O/U), in which the two barrels are stacked vertically on top of each other, but some combination guns are of a side-by-side design (abbreviated as SxS), in which the two barrels sit beside each other.
+cordite: a family of smokeless propellants developed and produced in the United Kingdom from 1889 to replace gunpowder as a military propellant. Like gunpowder, cordite is classified as a low explosive because of its slow burning rates and consequently low brisance. The hot gases produced by burning gunpowder or cordite generate sufficient pressure to propel a bullet or shell to its target, but not enough to destroy the barrel of the firearm, or gun.
+CQB: close-quarters combat or close quarters battle is a type of fighting in which small units engage the enemy with personal weapons at very short range, potentially to the point of hand-to-hand combat or fighting with hand weapons such as swords or knives.
+cylindro-conoidal bullet: a hollow base bullet, shaped so that, when fired, the bullet will expand and seal the bore. It was invented by Captain John Norton of the British 34th Regiment in 1832, after he examined the blow pipe arrows used by the natives in India and found that their base was formed of elastic locus pith, which by its expansion against the inner surface of the blow pipe prevented the escape of air past it.[9]
+
+
+D[edit]
+
+A view of the break-action of a side-by-side double-barrelled shotgun.
+damascus barrel or damascus twist: An obsolete method of manufacturing a firearm barrel made by twisting strips of metal around a mandrel and forge welding it into shape. See also Damascus steel.
+direct impingement: A type of gas operation for a firearm that directs gas from a fired cartridge directly to the bolt carrier or slide assembly to cycle the action.
+doglock: The lock that preceded the 'true' flintlock in both rifles and pistols in the 17th century. Commonly used throughout Europe in the 1600s, it gained popular favor in the British and Dutch military. A doglock carbine was the principal weapon of the harquebusier, the most numerous type of cavalry in the armies of Thirty Years War and the English Civil War era.
+double-barreled shotgun: A shotgun with two barrels, usually of the same gauge or bore. The two types of double-barreled shotguns are over/under (abbreviated as O/U), in which the two barrels are stacked on top of each other, and side-by-side (abbreviated as SxS), in which the two barrels sit beside each other. See photo at right for example of side-by-side double-barreled shotgun. For double-barreled guns that use one shotgun barrel and one rifle barrel, see combination gun.
+double rifle: A rifle that has two barrels, usually of the same caliber. The two types of double rifles are over/under (abbreviated as O/U), in which the two barrels are stacked on top of each other, and side-by-side (abbreviated as SxS), in which the two barrels sit beside each other. The photo at right is of a side-by-side shotgun, but a side-by-side rifle is very similar. For double-barreled guns that use one shotgun barrel and one rifle barrel, see combination gun.
+drilling: a firearm with three barrels (from the German word drei for three). Typically it has two barrels side by side on the top, with a third rifle barrel underneath. This provides a very versatile firearm capable of taking winged animals as well as big game. It also is useful in jurisdictions where a person is only allowed to own a single firearm.
+drum magazine: a type of firearms magazine that is cylindrical in shape, similar to a drum.
+dry fire: the practice of "firing" a firearm without ammunition. That is, to pull the trigger and allow the hammer or striker to drop on an empty chamber.
+dum-dum: A bullet designed to expand on impact, increasing in diameter to limit penetration and/or produce a larger diameter wound. The two typical designs are the hollow point bullet and the soft point bullet.
+dummy: A round of ammunition that is completely inert, i.e., contains no primer, propellant, or explosive charge. It is used to check weapon function, and for crew training.[10] Unlike a blank it contains no charge at all.
+
+
+E[edit]
+electronic firing: The use of an electric current to fire a cartridge, instead of a percussion cap. In an electronic-fired firearm an electric current is used instead to ignite the propellant, which fires the cartridge as soon as the trigger is pulled.
+eye relief: For optics such as binoculars or a rifle scope, eye relief is the distance from the eyepiece to the viewers eye which matches the eyepiece exit pupil to the eye's entrance pupil. Short eye relief requires the observer to press his or her eye close to the eyepiece in order to see an unvignetted image. For a shooter, eye relief is an important safety consideration. An optic with too short an eye relief can cause a skin cut at the contact point between the optic and the eyebrow of the shooter due to recoil.
+expanding bullet: An expanding bullet is a bullet designed to expand on impact, increasing in diameter to limit penetration and/or produce a larger diameter wound. The two typical designs are the hollow point bullet and the soft point bullet.
+extractor: A part in a firearm that serves to remove brass cases of fired ammunition after the ammunition has been fired. When the gun's action cycles, the extractor lifts or removes the spent brass casing from the firing chamber.
+
+
+F[edit]
+falling block action (also known as a sliding-block action) is a single-shot firearm action in which a solid metal breechblock slides vertically in grooves cut into the breech of the rifle and actuated by a lever. When in the top position, it is locked and resists the force of recoil while sealing the chamber. In the lower position, it leaves the chamber open to be loaded by a cartridge from the rear.
+Ferritic nitrocarburizing: A case hardening processes that diffuse nitrogen and carbon into ferrous metals at sub-critical temperatures to improve scuffing resistance, fatigue properties and corrosion resistance of metal surfaces. Also called nitriding.
+fire forming: the process of reshaping a metallic cartridge case to fit a new chamber by firing it within that chamber.[11]
+forcing cone: The tapered section at the rear of the barrel of a revolver that eases the entry of the bullet into the bore.[12]
+fouling shot: A fouling shot is a shot fired through a clean bore, intended to leave some residue of firing and prepare the bore for more consistent performance in subsequent shots. The first shot through a clean bore will behave differently from subsequent shots through a bore with traces of powder residue, resulting in a different point of impact. Also, the Fouling Shot Journal, a publication of the Cast Bullet Association[13]
+forward assist: A button, found commonly on M16 and AR-15-styled rifles, usually located near the bolt closure, that when hit, will push the bolt carrier forward, ensuring that the bolt is locked.
+fouling: The accumulation of unwanted material on solid surfaces. The fouling material can consist of either powder, lubrication residue, or bullet material such as lead or copper.
+frangible: A bullet that is designed to disintegrate into tiny particles upon impact to minimize their penetration for reasons of range safety, to limit environmental impact, or to limit the danger behind the intended target. Examples are the Glaser Safety Slug and the breaching round.[14][15]
+frizzen: an "L" shaped piece of steel hinged at the rear used in flintlock firearms. The flint scraping the steel causes a shower of sparks to be thrown into the flash pan.
+
+
+G[edit]
+gas check is a device used in some types of firearms ammunition when non-jacketed bullets are used in high pressure cartridges, to prevent the buildup of lead in the barrel and aid in accuracy.[16]
+gas-operated reloading: a system of operation used to provide energy to operate autoloading firearms.
+gauge: The gauge of a firearm is a unit of measurement used to express the diameter of the barrel.
+general purpose machine gun: a machine gun intended to fill the role of either a light machine gun or medium machine gun, while at the same time being man-portable.
+grain is a unit of measurement of mass that is based upon the mass of a single seed of a typical cereal. Used in firearms to denote the amount of powder in a cartridge or the weight of a bullet. Traditionally it was based on the weight of a grain of wheat or barley, but since 1958, the grain (gr) measure has been redefined using the International System of Units as precisely 64.79891 mg.[17][18] There are 7,000 grains per avoirdupois pound in the Imperial and U.S. customary units.
+grip safety: A safety mechanism, usually a lever on the rear of a pistol grip, that automatically unlocks the trigger mechanism of a firearm as pressure is applied by the shooter's hand.[12]
+gunpowder, also called black powder, is a mixture of sulfur, charcoal, and potassium nitrate. It burns rapidly, producing a volume of hot gas made up of carbon dioxide, water, and nitrogen, and a solid residue of potassium sulfide.[2] Because of its burning properties and the amount of heat and gas volume that it generates, gunpowder has been widely used as a propellant in firearms and as a pyrotechnic composition in fireworks. The term gunpowder also refers broadly to any propellant powder. Modern firearms do not use the traditional gunpowder (black powder) described here, but instead use smokeless powder.
+
+
+H[edit]
+hammer bite: The action of an external hammer pinching or poking the web of the operator's shooting hand between the thumb and fore-finger when the gun is fired. Some handguns prone to this are the M1911 pistol and the Browning Hi-Power.[19]
+hang fire: An unexpected delay between the triggering of a firearm and the ignition of the propellant. This failure was common in firearm actions that relied on open primer pans, due to the poor or inconsistent quality of the powder. Modern weapons are susceptible, particularly if the ammunition has been stored in an environment outside of the design specifications.
+half-cock: The position of the hammer where the hammer is partially but not completely cocked. Many firearms, particularly older firearms, had a notch cut into the hammer allowing half-cock, as this position would neither allow the gun to fire nor permit the hammer-mounted firing pin to rest on a live percussion cap or cartridge. The purpose of the half-cock position has variously been used both for loading a firearm, and as a safety-mechanism.
+
+revolver hammer
+hammer: The function of the hammer is to strike the firing pin in a firearm, which in turn detonates the impact-sensitive cartridge primer. The hammer of a firearm was given its name for both resemblance and functional similarity to the common tool.
+headspace: The distance measured from the part of the chamber that stops forward motion of the cartridge (the datum reference) to the face of the bolt. Used as a verb, headspace refers to the interference created between this part of the chamber and the feature of the cartridge that achieves the correct positioning.[20]
+headstamp: A headstamp is the markings on the bottom of a cartridge case designed for a firearm. It usually tells who manufactured the case. If it is a civilian case it often also tells the caliber, if it is military, the year of manufacture is often added.
+heavy machine gun: a larger class of machine gun.
+high brass: A shotgun shell for more powerful loads with the brass extended up further along the sides of the shell, while light loads will use "low brass" shells. The brass does not actually provide a significant amount of strength, but the difference in appearance provides shooters with a way to quickly differentiate between high and low powered ammunition.
+Holographic weapon sight: a non-magnifying gun sight that allows the user to look through a glass optical window and see a cross hair reticle image superimposed at a distance on the field of view.[21] The hologram of the reticle is built into the window and is illuminated by a laser diode.
+
+
+I[edit]
+
+.243 Winchester Ackley Improved (left) and .243 Winchester (right)
+improved cartridge: A wildcat cartridge that is created by straightening out the sides of an existing case and making a sharper shoulder to maximize powder space. Frequently the neck length and shoulder position are altered as well. The caliber is NOT changed in the process.
+IMR powder or Improved Military Rifle: A series of tubular nitrocellulose smokeless powders evolved from World War I through World War II for loading military and commercial ammunition and sold to private citizens for reloading rifle ammunition for hunting and target shooting.
+improvised firearm: a firearm manufactured by someone who is not a regular maker of firearms.
+internal ballistics: A subfield of ballistics, that is the study of a projectile's behavior from the time its propellant's igniter is initiated until it exits the gun barrel. The study of internal ballistics is important to designers and users of firearms of all types, from small-bore Olympic rifles and pistols, to high-tech artillery.
+iron sights are a system of aligned markers used to assist in the aiming of a device such as a firearm, crossbow, or telescope, and exclude the use of optics as in a scope. Iron sights are typically composed of two component sights, formed by metal blades: a rear sight mounted perpendicular to the line of sight and consisting of some form of notch (open sight) or aperture (closed sight); and a front sight that is a post, bead, or ring.
+
+
+J[edit]
+
+jacketed bullets
+jacket: A metal, usually copper, wrapped around a lead core to form a bullet.
+jeweling: a cosmetic process to enhance the looks of firearm parts, such as the bolt. The look is created with an abrasive brush and compound that roughs the surface of the metal in a circular pattern.
+
+
+K[edit]
+keyhole or keyholing: Refers to the shape of the hole left in a paper target by a bullet fired down a gun barrel which has a diameter larger than the bullet or which fails to properly stabilize the bullet. A bullet fired in this manner tends to wobble or tumble as it moves through the air and leaves a "keyhole" shaped hole in a paper target instead of a round one.
+Khyber Pass copy: a firearm manufactured by cottage gunsmiths in the Khyber Pass region between Pakistan and Afghanistan.
+kick: The backward momentum of a gun when it is discharged. In technical terms, the recoil caused by the gun exactly balances the forward momentum of the projectile, according to Newton's third law. (often called kickback or simply recoil)
+
+
+L[edit]
+length of pull: The distance between the trigger and the butt end of the stock of a rifle or shotgun.
+lever-action is a type of firearm action which uses a lever located around the trigger guard area, (often including the trigger guard itself) to load fresh cartridges into the chamber of the barrel when the lever is worked.
+light machine gun: machine gun designed to be employed by an individual soldier.
+live fire exercise or LFX: Any exercise in which a realistic scenario for the use of specific equipment is simulated. In the popular lexicon this is applied primarily to tests of weapons or weapon systems that are associated with the various branches of a nation's armed forces, although the term can be applied to the civilian arena as well.
+lug: any piece that projects from a firearm for the purpose of attaching something to it. For example barrel lugs are used to attach a break-action shotgun barrel to the action itself. If the firearm is a revolver, the term may also refer to a protrusion under the barrel that adds weight, thereby stabilizing the gun during aiming, mitigating recoil, and reducing muzzle flip. A full lug extends all the way to the muzzle, while a half lug extends only partially down the barrel. On a swing-out-cylinder revolver, the lug is slotted to accommodate the ejector rod.[12]
+M[edit]
+machine gun: a fully automatic mounted or portable firearm.
+machine pistol: a handgun-style fully automatic or burst-mode firearm.
+magazine: A magazine is an ammunition storage and feeding device within or attached to a repeating firearm. Magazines may be integral to the firearm (fixed) or removable (detachable). The magazine functions by moving the cartridges stored in the magazine into a position where they may be loaded into the chamber by the action of the firearm.
+match grade: Firearm parts and ammunition that are suitable for a competitive match. This refers to parts that are designed and manufactured such that they have a relatively tight-tolerances and high level of accuracy.
+muzzle: The part of a firearm at the end of the barrel from which the projectile will exit.
+muzzle brakes and recoil compensators: devices that are fitted to the muzzle of a firearm to redirect propellant gases with the effect of countering both recoil of the gun and unwanted rising of the barrel during rapid fire.
+muzzle energy is the kinetic energy of a bullet as it is expelled from the muzzle of a firearm. It is often used as a rough indication of the destructive potential of a given firearm or load. The heavier the bullet and the faster it moves, the higher its muzzle energy and the more damage it will do.
+muzzle velocity is the speed at which a projectile leaves the muzzle of the gun. Muzzle velocities range from approximately 800 ft/s (240 m/s) for some pistols and older cartridges to more than 4,000 ft/s (1,200 m/s) in modern cartridges such as the .220 Swift and .204 Ruger. In conventional guns, muzzle velocity is determined by the quality (burn speed, expansion) and quantity of the propellant, the mass of the projectile, and the length of the barrel.
+
+
+N[edit]
+necking down or necking up refers to shrinking or expanding the neck of an existing cartridge to make it use a bullet of a different caliber. A typical process used in the creation of wildcat cartridges.
+NRA or National Rifle Association of America is an American organization which lists as its goals the protection of the Second Amendment of the United States Bill of Rights and the promotion of firearm ownership rights as well as marksmanship, firearm safety, and the protection of hunting and self-defense in the United States. The NRA is also the sanctioning body for most marksmanship competition in the U.S.A., from the local to the Olympic level (particularly bullseye style events).
+
+
+O[edit]
+out-of-battery: The status of a weapon before the action has returned to the normal firing position. The term originates from artillery, referring to a gun that fires before it has been pulled back into its firing position in a gun battery. In firearms where there is an automatic loading mechanism, a condition in which a live round is at least partially in the firing chamber and capable of being fired, but is not properly secured by the usual mechanism of that particular weapon can occur.
+over-bore: Small caliber bullets being used in very large cases.[22] It is the relationship between the volume of powder that can fit in a case and the diameter of the inside of the barrel or bore.[23]
+obturate: An ordnance word; to close (a hole or cavity) so as to prevent a flow of gas through it, especially the escape of explosive gas from a gun tube during firing. The process of obturation is where a recess in the base of a bullet allows for expanding gases to press against the base and inside skirt of the bullet creating a gas tight seal to the bore. See also swage.
+offset mount: Is where it may not be practical to mount a telescopic sight directly above the receiver and barrel of a firearm. This was noted with many military and service arms where new ammunition needs to be fed from above along a similar path, in reverse, to the spent cartridge cases being ejected clear. Not often seen or used today, although complete or partial sets of offset mounts attract keen interest from restorers and collectors.
+P[edit]
+parkerizing: A method of protecting a steel surface from corrosion and increasing its resistance to wear through the application of an electrochemical phosphate conversion coating. Also called phosphating and phosphatizing.
+percussion cap: a small cylinder of copper or brass that was the crucial invention that enabled muzzle-loading firearms to fire reliably in any weather. The cap has one closed end. Inside the closed end is a small amount of a shock-sensitive explosive material such as fulminate of mercury. The percussion cap is placed over a hollow metal "nipple" at the rear end of the gun barrel. Pulling the trigger releases a hammer which strikes the percussion cap and ignites the explosive primer. The flame travels through the hollow nipple to ignite the main powder charge.
+Picatinny rail: a bracket used on some firearms in order to provide a standardized mounting platform.
+pinfire: an obsolete type of brass cartridge in which the priming compound is ignited by striking a small pin which protrudes radially from just above the base of the cartridge.
+plinking: Informal target shooting done at non-traditional targets such as tin cans, glass bottles, and balloons filled with water.[24]
+POA: point of aim.
+POI: point of impact.
+powerhead or bang stick: a specialized firearm used underwater that is fired when in direct contact with the target.
+pump-action: A rifle or shotgun in which the handgrip can be pumped back and forth in order to eject a spent round of ammunition and to chamber a fresh one. It is much faster than a bolt-action and somewhat faster than a lever-action, as it does not require the trigger hand to be removed from the trigger whilst reloading. When used in rifles, this action is also commonly called a slide action.
+
+
+Q[edit]
+quad-barrelled: A gun, typically artillery, with four barrels, such as the ZPU.
+R[edit]
+ramrod: a device used with early firearms to push the projectile up against the propellant (mainly gunpowder).
+rate of fire: the frequency at which a firearm can fire its projectiles.
+receiver: the part of a firearm that houses the operating parts.
+recoil: The backward momentum of a gun when it is discharged. In technical terms, the recoil caused by the gun exactly balances the forward momentum of the projectile, according to Newton's third law. (often called kickback or simply kick)
+recoil operation: Recoil operation is an operating mechanism used in locked-breech, autoloading firearms. As the name implies, these actions use the force of recoil to provide energy to cycle the action.
+Red dot sight a type of reflector (reflex) sight for firearms that gives the uses a red light-emitting diode as a reticle to create an aimpoint.
+Reflector (reflex) sight: A generally non-magnifying optical device that has an optically collimated reticle, allowing the user to look through a partially reflecting glass element and see a parallax free cross hair or other projected aiming point superimposed on the field of view.[25] Invented in 1900 but not generally used on firearms until reliably illuminated versions were invented in the late 1970s (usually referred to by the abbreviation "reflex sight").
+revolver: a repeating firearm that has a cylinder containing multiple chambers and at least one barrel for firing.
+ricochet: (/'r?k??e?/ rik-?-shay) is a rebound, bounce or skip off a surface, particularly in the case of a projectile.
+rifle bedding: a process of filling gaps between the action and the stock of a rifle with an epoxy based material.
+rifling: Helical grooves in the barrel of a gun or firearm, which imparts a spin to a projectile around its long axis. This spin serves to gyroscopically stabilize the projectile, improving its aerodynamic stability and accuracy.
+rimfire: A type of firearm cartridge that used a firing pin which strikes the base's rim, instead of striking the primer cap at the center of the base of the cartridge to ignite it (as in a centerfire cartridge). The rim of the rimfire cartridge is essentially an extended and widened percussion cap which contains the priming compound, while the cartridge case itself contains the propellant powder and the projectile (bullet).
+rolling block: A form of firearm action where the sealing of the breech is done with a circular shaped breechblock able to rotate on a pin. The breechblock is locked into place by the hammer, thus preventing the cartridge from moving backwards at the moment of firing. By cocking the hammer, the breechblock can be rotated freely to reload the weapon.
+round: a single cartridge.
+
+
+S[edit]
+sabot: a device used in a firearm to fire a projectile, such as a bullet, that is smaller than the bore diameter.
+safety: A mechanism used to help prevent the accidental discharge of a firearm, helping to ensure safer handling. Safeties can generally be divided into subtypes such as internal safeties (which typically do not receive input from the user) and external safeties (which typically allow the user to give input, for example, toggling a lever from "on" to "off" or something similar). Sometimes these are called "passive" and "active" safeties (or "automatic" and "manual"), respectively.
+sawed-off shotgun/short-barreled shotgun (SBS): a type of shotgun with a shorter gun barrel and often a shorter or deleted stock.
+selective fire: A firearm that fires semi–automatically and at least one automatic mode by means of a selector depending on the weapon's design. Some selective fire weapons utilize burst fire mechanisms to limit the maximum or total number of shots fired automatically in this mode. The most common limits are two or three rounds per pull of the trigger.
+semi-wadcutter or SWC: A type of all-purpose bullet commonly used in revolvers which combines features of the wadcutter target bullet and traditional round nosed revolver bullets, and is used in both revolver and pistol cartridges for hunting, target shooting, and plinking. The basic SWC design consists of a roughly conical nose, truncated with a flat point, sitting on a cylinder. The flat nose punches a clean hole in the target, rather than tearing it like a round nose bullet would, and the sharp shoulder enlarges the hole neatly, allowing easy and accurate scoring of the target. The SWC design offers better external ballistics than the wadcutter, as its conical nose produces less drag than the flat cylinder.
+shooting range: a specialized facility designed for firearms practice.
+shooting sticks: are portable weapon mounts.
+short-barreled rifle (SBR): a legal designation in the United States, referring to a shoulder-fired, rifled firearm with a barrel length of less than 16" (40.6 cm) or overall length of less than 26" (66.0 cm).
+single-action: Usually referring to a pistol or revolver, single-action is when the hammer is pulled back manually by the shooter (cocking it), after which the trigger is operated to fire the shot. See also double-action.
+single-shot: A firearm that holds only a single round of ammunition, and must be reloaded after each shot.
+slamfire: a premature, unintended discharge of a firearm that occurs as a round is being loaded into the chamber.
+sleeving: A method of using new tubes to replace a worn-out gun barrel.[26]
+slide bite or Snake bite: A phenomenon which is often grouped with hammer bite. In this case the web of the shooting hand is cut or abraded by the rearward motion of the semi-automatic pistol's slide, not by the gun's hammer. This most often occurs with small pistols like the Walther PPK and Walther TPH that have an abbreviated grip tang. This problem is exacerbated by the sharp machining found on many firearms.
+sling: is a type of strap or harness designed to allow an operator carry a firearm (usually a long gun such as a rifle, carbine, shotgun, or submachine gun) on his/her person and/or aid in greater hit probability with that firearm.
+snubnosed revolver: a revolver with a short barrel length.
+speedloader: A device used for loading a firearm or firearm magazine with loose ammunition very quickly. Generally, speedloaders are used for loading all chambers of a revolver simultaneously, although speedloaders of different designs are also used for the loading of fixed tubular magazines of shotguns and rifles, or the loading of box or drum magazines. Revolver speedloaders are used for revolvers having either swing-out cylinders or top-break cylinders.
+spitzer bullet: an aerodynamic bullet design.
+sporterising, sporterisation, or sporterization: The practice of modifying military-type firearms either to make them suitable for civilian sporting use or to make them legal under the law.
+squib load, also known as squib round, pop and no kick, or just squib: A firearms malfunction in which a fired projectile does not have enough force behind it to exit the barrel, and thus becomes stuck.
+stock: The part of a rifle or other firearm, to which the barrel and firing mechanism are attached, that is held against one's shoulder when firing the gun. The stock provides a means for the shooter to firmly support the device and easily aim it.
+stopping power: The ability of a firearm or other weapon to cause a penetrating ballistic injury to a target, human or animal, sufficient to incapacitate the target where it stands.
+stripper clip: A speedloader that holds several cartridges together in a single unit for easier loading of a firearm's magazine. A stripper clip is used only for loading the magazine and is not necessary for the firearm to function.
+silencer, suppressor, sound suppressor, sound moderator, or "hush puppy": A device attached to or part of the barrel of a firearm to reduce the amount of noise and flash generated by firing the weapon.
+swage: To reduce an item in size by forcing through a die. In internal ballistics, swaging refers to the process where bullets are swaged into the rifling of the barrel by the force of the expanding powder gases.
+swaged bullet: A bullet that is formed by forcing the bullet into a die to assume its final form.
+swaged choke: A constriction or choke in a shotgun barrel formed by a swaging process that compresses the outside of the barrel.
+swaged rifling: Rifling in a firearm barrel formed by a swaging process, such as button rifling.
+
+
+T[edit]
+Taylor KO Factor: mathematical approach for evaluating the stopping power of hunting cartridges.
+telescoping stock or collapsing stock: A stock on a firearm that telescopes or folds in on itself in order to become more compact. Telescoping stocks are useful for storing a rifle or weapon in a space that it would not normally fit in.
+terminal ballistics: A sub-field of ballistics, is the study of the behavior of a projectile when it hits its target.[27]
+Throat Erosion(firearms): The wearing of the portion of the barrel where the gas pressure and heat is highest as the projectile leaves the chamber. The greater the chamber pressure the more rapid throat erosion occurs which is compounded by rapid firing which heats and weakens the steel.
+trigger: A mechanism that actuates the firing sequence of a firearm. Triggers almost universally consist of levers or buttons actuated by the index finger.
+trunnion: a cylindrical protrusion used as a mounting and/or pivoting point. On firearms, the barrel is sometimes mounted in a trunnion, which in turn is mounted to the receiver.
+
+
+U[edit]
+upset forging: A process that increases the diameter of a workpiece by compressing its length.
+underlug: 1. The locking lugs on a break-action firearm that extend from the bottom of the barrels under the chamber(s) and connect into the receiver bottom.[28] 2. The metal shroud underneath the barrel of a revolver that surrounds and protects the extractor rod. The two types of underlugs include half-lug, meaning the shroud doesn't run the entire length of the barrel but instead is only as long as the extractor rod, and full-lug, meaning the shroud runs the full length of the barrel.
+underwater firearm: a firearm specially designed for use underwater.
+
+
+V[edit]
+
+varmint rifle
+varmint rifle: A small-caliber firearm or high-powered air gun primarily used for varmint hunting — killing non-native or non-game animals such as rats, house sparrows, starling, crows, ground squirrels, gophers, jackrabbits, marmots, groundhogs, porcupine, opossum, coyote, skunks, weasels,[29] or feral cats, dogs, goats, pigs and other animals considered to be nuisance vermin destructive to native or domestic plants and animals.[30]
+
+
+W[edit]
+wadcutter: A special-purpose bullet specially designed for shooting paper targets, usually at close range and at subsonic velocities typically under 800 ft/s (240 m/s). They are often used in handgun and airgun competitions. A wadcutter has a flat or nearly flat front that cuts a very clean hole through the paper target, making it easier to score and ideally reducing errors in scoring the target to the favor of the shooter.
+WCF: An acronym for a family of cartridges designed by Winchester Repeating Arms Company, called Winchester Center Fire, as in the .30-30 WCF or .32 WCF.[31]
+wheellock: an obsolete mechanism for firing a firearm.
+wildcat cartridge or wildcat: A custom cartridge for which ammunition and firearms are not mass-produced. These cartridges are often created in order to optimize a certain performance characteristic (such as the power, size or efficiency) of an existing commercial cartridge. See improved cartridge.
+windage: The side-to-side adjustment of a sight, used to change the horizontal component of the aiming point. See also Kentucky windage.
+
+
+X[edit]
+x-ring: a circle in the middle of a shooting target bullseye used to determine winners in event of a tie.
+Y[edit]
+yaw: The heading of a bullet, used in external ballistics that refers to how the Magnus effect causes bullets to move out of a straight line based on their spin.
+
+
+Z[edit]
+zero-in or zeroing: The act of setting up a telescopic or other sighting system so that the point of impact of a bullet matches the sights at a specified distance.
+--------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Glossary_of_firearms_terms

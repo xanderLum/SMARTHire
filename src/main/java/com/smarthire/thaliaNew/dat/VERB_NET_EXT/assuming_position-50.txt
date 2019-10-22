@@ -1,0 +1,1 @@
+bend	bow	crouch	flop	hang	hunch	hunch_up	kneel	lean	lie	lie_down	perch	plop	rise	sit	sit_down	slouch	slump	sprawl	squat	squat_down	stand	stand_up	stoop	straddle	

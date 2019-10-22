@@ -1,0 +1,716 @@
+Algolagnia, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+algophilia, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Anal Sex, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+asexual, noun, -1, 0, 0, 0, 0, 0, 0, false, thing
+chastity, noun, -1, 0, 0, 0, 0, 0, 0, false, thing
+anaphrodisia, noun, -1, 0, 0, 0, 0, 0, 0, false, thing
+agape, noun, -1, 0, 0, 0, 0, 0, 0, false, thing
+sexual morality, noun, -1, 0, 0, 0, 0, 0, 0, false, thing
+psychosexuality, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+menage a trois, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+fondler, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+gay man, noun, 1, 0, 0, 0, 0, 0, 0, false, gender
+shirtlifter, noun, 1, 0, 0, 0, 0, 0, 0, false, gender
+necrophilia, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+direct transmission, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sex manual, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+amorousness, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+libido, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+the hots, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+prurience, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+pruriency, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+lasciviousness, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+carnality, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+lubricity, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sexual pleasure, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sadism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sadist, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+sadomasochism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sadomasochist, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+masochism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+masochist, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+sensuality, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sensualness, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sensualism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+passion, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hot stuff, noun, 1, 0, 0, 0, 0, 0, 0, true, person
+sexual desire, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+eros
+concupiscence
+physical_attraction
+sexual urge, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+sexual love, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+aphrodisia
+ovum
+sperm
+sex organ
+pleasure
+frigidity
+anal sex
+aphrodisiac
+flunitrazepan
+gamma_hydroxybutyrate
+GHB
+heterosexism
+sexual discrimination
+lesbianism
+lechery
+sexual inversion
+petting
+snogging
+autoeroticism
+bisexuality
+homosexuality
+heterosexuality
+self-stimulation
+promiscuity
+one-night stand
+sexual perversion
+mating
+coupling
+sexual union
+cybersex
+eroticism
+wilding
+molestation
+pornography
+fetishism
+horniness
+oral stage
+sex crime
+prepuberty
+puberty
+musth
+cuckoldry
+sexploitation
+sexual harassment
+sexcapade
+sex drive
+testosterone
+sexual immorality
+anorgasmia
+aids
+lymphogranuloma venereum
+priapism
+chlamydia
+androgen
+estrogen
+nongonococcal urethritis
+hepatitis b
+sexual contact
+anal stage
+phallic stage
+latency stage
+genital stage
+sexual drive
+sexual reproduction
+sexual arousal
+sexual relationship
+sexual intimacy
+amphimixis
+beard
+pickup
+switch-hitter
+psychosexual development
+transsexual
+two-timer
+violator
+sex kitten
+sex object
+sex offender
+pornographer
+fetishist
+mistress
+molester
+nymphet
+flagellant
+sexual
+intimate
+intersex
+heterosexual
+sexual gratification
+bisexual
+catamite
+transvestism
+cohabitation
+closet queen
+demimondaine
+homophobe
+hunk
+kink
+lesbian
+lolita
+Lothario
+mate
+domestic partner
+penetration
+fucker
+rapist
+consummation
+conjugal visitation
+potency
+incubus
+succubus
+bestiality
+defloration
+pederasty
+fornication
+heterosexuality
+sexual love
+extramarital sex
+tribadism
+statutory rape
+carnal abuse
+hank panky
+sodomy
+buggery
+insemination
+anal intercourse
+spermatozoon
+ANAL Sphincter, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Areola, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+arousal, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+buttocks
+nates
+fundament
+hind end
+prat
+fucking
+screwing
+ass
+nooky
+piece of ass
+piece of tail
+roll in the hay
+shtup
+arse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+anus
+arsehole
+backside, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+behind, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+bum, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+buns, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+butt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+buttocks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+buttock
+can, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cheek, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+derriere, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+fanny, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+female genitalia
+female genitals
+female genital organ
+hindquarters, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+moon, verb, 1, 0, 0, 0, 0, 0, 0, true, thing
+keister, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+posterior, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+rear, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+rear end, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+rump, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+croup
+croupe
+stern, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+seat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+tail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+tail end, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+tooshie, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+tush, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+asshole, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Autoerotic, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bitch, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+cunt
+Bondage, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bondage Babe, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Boner, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+blunder
+blooper
+bloomer
+bungle
+pratfall
+foul-up
+fuckup
+flub
+botch
+boner
+boo-boo
+Bosom, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+breast
+tit
+titty
+boob, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+bottom, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Breasts, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bust, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cleavage, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hump, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+roll in the hay
+love
+sleep with
+get laid
+have sex
+know
+do it
+be intimate
+have intercourse
+have it away
+have it off
+jazz
+eff
+lie with
+bed
+have a go at it
+bang
+get it on
+bonk
+knocker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+mammary glands, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+mamma
+peach, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+smasher
+stunner
+knockout
+beauty
+ravisher
+sweetheart
+lulu
+looker
+mantrap
+dish
+teat, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+nipple
+mammilla
+mamilla
+pap
+tit, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+titty, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Brothel, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+bagnio
+house of prostitution
+bawdyhouse
+sporting house
+bordello, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+cathouse, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+house of ill repute, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+whorehouse, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Bugger, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Bugger, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+sodomist
+sod
+sodomize
+sodomise
+Bush, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+crotch hair
+Butch, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Butch, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+Callipygian, adjective, 1, 0, 0, 0, 0, 0, 0, false, thing
+callipygous
+Clitoris, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Clit, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+button
+Cock, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+pecker
+peter
+putz
+Condom, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+safety, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+safe, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+prophylactic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Concupiscent, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+lustful
+lusty
+Cross-Dresser, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Cuckold, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Cuckold, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+Cum, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+seed
+spermatozoa
+come, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+come, verb, 1, 0, 0, 0, 0, 0, 0, true, verb
+Cunnilingus, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+cunnilinctus
+Cunt, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+puss
+slit
+twat
+sexual intercourse
+dickhead, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bastard
+cocksucker
+shit
+motherfucker
+whoreson
+son of a bitch
+SOB
+fellatio
+cock sucking
+blowjob
+Dike, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dyke, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dildo, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Dominatrix, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Dote, verb, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ejaculate, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Ejaculate, verb, 1, 0, 0, 0, 0, 0, 0, true, thing
+Electra Complex, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Erection, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Erogenous, adjective, 1, 0, 0, 0, 0, 0, 0, false, thing
+Erogenous Zone, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Estrus, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+oestrus
+heat
+rut
+genital
+Exhibitionism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+immodesty
+Fag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+fairy
+nance
+pansy
+poof
+poove
+pouf
+Faggot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fagot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fellatio, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+fellation
+Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fetishize, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+Flirt, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+flirting
+flirtation
+coquetry
+dalliance
+toying
+coquette
+vamp
+vamper
+minx
+tease
+prickteaser
+Foreplay, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+stimulation
+Foreskin, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+French Kiss, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+soul kiss
+deep kiss
+Frottage, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Fuck, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Fuck, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+Gay, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+homosexual
+homophile
+homo
+Gigolo, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Hand Job, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+jacking off
+jerking off
+Hard-On, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Hardwood Floors, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hard Swap, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Harem, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Harmatophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Harpaxophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Harvard Style, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hasbian, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hat Trick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Head, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+oral sex
+Hedonist, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+pagan
+pleasure seeker
+sensual
+sultry
+Hooker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+streetwalker
+street girl
+hooker
+floozy
+floozie
+slattern
+Horny, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+steamy
+aroused
+turned on
+Hustler, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hymen, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+maidenhead
+virginal membrane
+Incest, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Jack Off, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+fuck off
+she-bop
+Jerk Off, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+John, noun, 1, 0, 0, 0, 0, 0, 0, true, person
+whoremaster
+whoremonger
+Kink, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kinky, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+perverted
+Kumquat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Labia Majora, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Labia Minora, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Lecher, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+satyr
+lech
+letch
+Lecherous, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Lust, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+lustfulness
+Luxuria, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Make Love, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Make Out, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+neck
+fondle
+stroke
+prostitution
+rape
+safe sex
+sexual assault
+Masochism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Masturbation, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+onanism
+Micropenis, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Microphallus, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Missionary Position, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Mother Fucker, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Necrophilia, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+necrophilism
+necromania
+sexual attraction
+Nookie, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+testis
+orchis
+ball
+ballock
+bollock
+egg
+Nut, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nymphomaniac, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Nymphomaniac, adjective, 1, 0, 0, 0, 0, 0, 0, false, thing
+nympho
+sexual desire
+nymphomaniacal
+Orgasm, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+climax
+sexual climax
+coming
+kiss
+buss
+Outercourse, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Pansexual, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Paraphilia, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Pecker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cock
+dick
+peter
+putz
+Pederast, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+paederast
+child molester
+sex
+Pedophile, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+paedophile
+Penis, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+phallus
+member
+copulation
+sexual intercourse
+intercourse
+sex act
+coitus
+coition
+sexual congress
+congress
+sexual relation
+relation
+carnal knowledge
+genital organ
+Perineum, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Permaboner, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Personalities, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Perversion, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sexual perversion
+Pervert, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+deviant
+deviate
+degenerate
+Philander, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+womanize
+womanise
+womanizer
+womaniser
+Philanderer, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Pimp, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+procurer
+panderer
+pandar
+fancy man
+ponce
+Pimp, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+pander
+procure
+Premature Ejaculation, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Prepuce, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Prick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Promiscuous, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+sexual behavior
+easy
+light
+loose
+promiscuous
+sluttish
+wanton
+Prostitute, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Prostitute, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+cocotte
+harlot
+bawd
+cyprian
+fancy woman
+working girl
+sporting lady
+lady of pleasure
+woman of the street
+Pubes, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+pubic region
+loins
+os pubis
+Pubic hair, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Pudendum, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Pussy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Put Out, verb, 1, 0, 0, 0, 0, 0, 0, true, verb
+Queen, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queer, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+Randy, noun, 1, 0, 0, 0, 0, 0, 0, false, feeling
+Rubber, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ruttish, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Sadism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Sadist, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Sadomasochism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Salacious, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+lubricious
+lustful
+prurient
+Satyriasis, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Score, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Score, verb, 1, 0, 0, 0, 0, 0, 0, true, thing
+make
+sexual conquest
+Screw, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Screw, verb, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scrotum, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Seduce, verb, 1, 0, 0, 0, 0, 0, 0, true, thing
+Seducer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Seductress, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Seduction, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+conquest
+Semen, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Seminal Fluid, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Sensualist, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Sex, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Sex, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+sexual activity
+sexual practice
+sexual act
+sex activity
+sexual urge
+arouse
+excite
+turn on
+wind up
+sexuality
+Shaft, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sixty-Nine, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+69, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+soixante-neuf, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Slut, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+adulteress
+fornicatress
+hussy
+jade
+loose woman
+trollop
+slattern
+slovenly woman
+Snatch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sodomite, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Strumpet, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Stud, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+he-man
+macho-man
+Sugar Daddy, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Tart, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+Temptress, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+enchantress
+siren
+Delilah
+femme fatale
+Testicle, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Tool, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tramp, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+promiscuous
+swinger
+Transvestite, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Trick, noun, 1, 0, 0, 0, 0, 0, 0, true, person
+Twat, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Twat, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+Vagina, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Venereal Disease, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+VD, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+venereal infection
+social disease
+Cupid's itch
+Cupid's disease
+Venus's curse
+sexually transmitted disease
+dose
+Virgin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Virgin, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+pure
+vestal
+virginal
+virtuous
+Virginity, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Virile, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+potent
+Voluptuous, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+juicy
+luscious
+red-hot
+toothsome
+bosomy
+busty
+buxom
+curvaceous
+curvy
+full-bosomed
+sonsie
+sonsy
+well-endowed
+Voyeur, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+Voyeurism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Peeping Tom
+peeper
+Vulva, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Wank, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Wank, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+Wanker, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+tosser
+jerk-off
+lascivious
+lewd
+Wanton, noun, 1, 0, 0, 0, 0, 0, 0, false, person
+Wanton, adjective, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wet Dream, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Whore, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Whore, verb, 1, 0, 0, 0, 0, 0, 0, false, thing
+homosexuality, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+homosexualism
+homoeroticism
+queerness
+Zoophilia, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+zoophilism, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+neck, verb, 1, 0, 0, 0, 0, 0, 0, false, verb

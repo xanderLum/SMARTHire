@@ -1,0 +1,100 @@
+AFFINITY GROUP, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+ANNUAL REPORT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+ARTICLES OF INCORPORATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+ASSETS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+BEQUEST, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+BRICKS AND MORTAR, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+BUILDING CAMPAIGN, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+BYLAWS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+CAPITAL CAMPAIGN, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+CHALLENGE GRANT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+COMMUNITY FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+CORPORATE FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+CORPORATE GIVING PROGRAM, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+DECLINE, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+DEMONSTRATION GRANT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+DESIGNATED FUNDS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+DISCRETIONARY FUNDS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+DISQUALIFIED PERSON, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+DONEE, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+DONOR, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+DONOR ADVISED FUND, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+DONOR DESIGNATED FUND, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+ENDOWMENT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+EXCISE TAX, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+EXPENDITURE RESPONSIBILITY, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+FAMILY FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+FIELD OF INTEREST FUND, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+FINANCIAL REPORT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+FORM 990, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+FORM 990-PF, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+FUNDING CYCLE, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+GIVING PATTERN, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+GRANT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+GRANT MONITORING, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+GRANTEE, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+GRANTOR, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+GRASSROOTS FUNDRAISING, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+GUIDELINES, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+IN-KIND CONTRIBUTION, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+INDEPENDENT FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+INTERMEDIATE SANCTIONS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+INTERNAL REVENUE SERVICE, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+IRS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+JEOPARDY INVESTMENT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+LETTER OF INTENT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+LEVERAGE, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+LIMITED-PURPOSE FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+LOANED EXECUTIVES, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+LOBBYING, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+MATCHING GIFTS PROGRAM, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+MATCHING GRANT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+OPERATING FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+OPERATING SUPPORT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PAYOUT REQUIREMENT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PHILANTHROPY, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PLEDGE, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+POST-GRANT EVALUATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PRELIMINARY PROPOSAL, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PRIVATE FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PROGRAM OFFICER, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PROGRAM RELATED INVESTMENT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PUBLIC CHARITY, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+PUBLIC FOUNDATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+PUBLIC SUPPORT TEST, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+QUERY LETTER, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+RESTRICTED FUNDS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+SEED MONEY, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+SELF-DEALING, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+SITE VISIT, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+SOCIAL INVESTING, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+SUPPORTING ORGANIZATION, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+TAX-EXEMPT ORGANIZATIONS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+TECHNICAL ASSISTANCE, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+TIPPING, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+TRUST, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+TRUSTEE, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+UNRESTRICTED FUNDS, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+aid, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+alms, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+benevolent society, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+button day, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+charitable, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+charity, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+debt relief, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+flag day, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+food bank, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+foreign aid, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+foundation, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+friend, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+fundraising, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+non-profit, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+non-profit-making, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+not-for-profit, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+Oxfam, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+pearly king/queen, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+Peace Corps, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+Red Crescent, noun, 0, 0, 0, 1, 0, 0, 0, true, thing
+Red Cross, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+voluntary, noun, 0, 0, 0, 1, 0, 0, 0, false, thing
+volunteer, noun, 0, 0, 0, 1, 0, 0, 0, false, thing

@@ -1,0 +1,1 @@
+bounce	drift	drop	float	glide	move	nose	roll	slide	swing	coil	revolve	rotate	spin	turn	twirl	twist	whirl	wind	snake	soar	spiral	undulate	

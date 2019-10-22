@@ -1,0 +1,88 @@
+//        stringposts.add(input);
+//        stringposts.add("This is fuck!!!");
+//        stringposts.add("So I repackaged the drug under the name Zyban, and it is now prescribed to smokers wanting to shake the habit... Dont tell anyone!!!");
+//        stringposts.add("The man whose red hat I borrowed yesterday in the street that is next to my house lives next door.");
+//        stringposts.add("Guns to protect people. Gun not to scare people.");
+//           stringposts.add("no alcohol for today. shit! fuck");
+//           stringposts.add("Wine is bad. It is bad.");
+//           stringposts.add("Mike has a game. His is fun.");
+//        stringposts.add("Alcohol is a friend in times of trouble");
+//        
+//        stringposts.add("I hate wine.");
+//        stringposts.add("Marijuana is bad.");
+//        stringposts.add("My drug is good.");
+//        stringposts.add("Marijuana is good. It is my drug.");
+//        stringposts.add("avoid drugs!");
+//        stringposts.add("The Marijuana is bad. <3 <3 >.<");
+//        stringposts.add("The Wine is bad. <3 <3 >.<");
+//        stringposts.add("Beer is good for the people.");
+//        stringposts.add("Guns are for jerks.");
+//        stringposts.add("Yesterday, I give alms to the street children.");
+//
+//        stringposts.add("Marijuana is delicious, and illicit drug is free. No not bad Marijuana and good shabu is illegal");
+//        stringposts.add("Maria is a good girl. She is pretty jolly. She eats bread.");
+//        stringposts.add("I love WINE. shit ! ");
+//        stringposts.add("One never knows what one can expect of dogs and cats on vacation. :( :)");
+//        stringposts.add("I really love marijuana. fuck!!!!!");
+//        stringposts.add("I really love sweet WINE. It is good.");
+//        stringposts.add("No Marijuana ,and alcohol are good.");
+//        stringposts.add("I am drinking Wine...");
+//        stringposts.add("I don't like Wine.");
+//        stringposts.add("I oppose that drug is good.");
+//        stringposts.add("I believe that drug is bad.");
+//        stringposts.add("I am not a drug addict. drug is good.");
+//          stringposts.add("Loving a marijuana is very important.");
+//          stringposts.add("Loving him is to believe him.");
+//          stringposts.add("He is loving his girl.");
+//
+// 
+//        stringposts.add("Say no to drugs");
+//        stringposts.add("Yo nigga! Wanna sniff some marijuana?????");
+//
+//        stringposts.add("She loves wine..");
+//        stringposts.add("I do not believed that marijuana is bad for the humanity. Watch: https://www.google.com.ph/search?q=website+urls&oq=website+urls&aqs=chrome..69i57j0l5.6758j0j7&sourceid=chrome&es_sm=93&ie=UTF-8");
+//        stringposts.add("Fermented wine is the best. It is really tasty :)");
+//        stringposts.add("My uncle is a drug addict. :(");
+//        stringposts.add("I am a drug addict. HAHAHAHAHA!!!! LOL!!!");
+//        stringposts.add("Yesterday, I give alms to the street children... :)");
+//        stringposts.add("Too much alcohol is bad, why do people still drink too much???? Someones guilty… :p");
+//        stringposts.add("no alcohol for today. shit!!!! Fuck :(");
+//        stringposts.add("Alcohol is a friend in times of trouble :)");
+//        stringposts.add("Guns to protect people. Gun not to scare people."); 
+//        
+//        stringposts.add("Fermented wines are the best. It is really tasty.");
+//
+//        stringposts.add("That was one intense chapter.Hory shit. hahahahaahah");
+//        stringposts.add("Duterte will run as a president in the next election for the people of the Philippines.");
+//        stringposts.add("he’s just playing safe but wait, once Pnoy orders him to fast track BBL definitely he will be in d forefront");
+//        stringposts.add("The not beautiful Cocaine nor sweet Marijuana is GOOD for the people. They is good.");
+//        stringposts.add("Avoid drugs! It can kill people.");
+//        stringposts.add("You were the first sperm to reach the egg. You were born a WINNER. ACT LIKE IT."); 
+//        stringposts.add("I say government! You were not made to rule us this way!");
+//        stringposts.add("he’s just playing safe but wait, once Pnoy orders him to fast track BBL definitely he will be in d forefront.");
+//        String stringpost = "Neither Cocaine nor Marijuana is good for the people. I give drug.";
+//        stringposts.add("Drinking wine is the best!");
+//        stringposts.add("He said that Drug is good.");
+//        stringposts.add("I said that Drug is good.");
+//        
+//        stringposts.add("I believed that Drug is bad.");
+//        stringposts.add("Shabu and Marijuana are bad.");
+//        stringposts.add("I am a drug addict. Shit!");
+//        stringposts.add("I am a girl. Shit!");
+//
+//
+//        stringposts.add("An alcohol is drank by me.");
+//        stringposts.add("The job will not have been started by the angry bird and cute bear.");
+//        stringposts.add("Too much alcohol is bad, why do people still drink too much? Someones guilty.");
+//        stringposts.add("I don't believed that drugs are bad for the humanity.");
+//        stringposts.add("Drug is bad for the humanity.");
+//        stringposts.add("Fermented wines are the best.");
+//        
+//        stringposts.add("When the clock struck five, the workers stooped.");
+//        stringposts.add("Our visitors strolled along the river.");
+//         stringposts.add("She has'nt telephoned us, nor has she written.");
+//         stringposts.add("She has neither telephoned nor written.");
+//         stringposts.add("Ric and Dan flew to the scene of the accident.");
+//         stringposts.add("She has neither telephoned, nor has she written.");
+//        stringposts.add("The police saw drugs in my bed.");
+//        stringposts.add("I with Marijuana fly high in the sky.");

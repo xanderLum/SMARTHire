@@ -1,0 +1,2049 @@
+=========================================================================================
+DRUG
+-----------------------------------------------------------------------------------------
+good stuff, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+smileys, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+siver bullet, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+pep twisted, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+PEP STONED, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+PEP LOVE, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+PEP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PARTY PILLS, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+NEMESIS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LEGAL X, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LEGAL E, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HAPPY PILLS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FRENZY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FAST LANE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+EXODUS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+EUPHORIA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ESP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+COSMIC KELLY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BZP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BOLTS EXTRA STRENGTH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BLAST, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BENZYLPIPERAZINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+A2, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WINDOW, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+TAB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+STARS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SMILIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+RAINBOWS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PAPER MUSHROOMS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MICRO DOT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LUCY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LIQUID ACID, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LIGHTNING FLASH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+L, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HAWK, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FLASH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHEER, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BLOTTER, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DOTS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+AH-7921, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+aMT, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+INDOPAN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+AMT FREEBASE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ALPHA-METHYLTRYPTAMINE, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+SHROOMS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PHILOSOPHER'S STONE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MUSHIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MAGICS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LIBERTY CAP, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+LIBERTIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+psilocybe semilanceata, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+AMANI, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+AGARIC, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WHIZZ, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SULPH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PASTE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BILLY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Synthetic cannabinoids, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+TAI HIGH HAWAIIAN HAZE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SPICE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MARY JOY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+EXODUS DAMNATION, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ECSESS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DEVIL'S WEED, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+CLOCKWORK ORANGE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BOMBAY BLUE EXTREME, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BLUE CHEESE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BLACK MAMBA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ANNIHILATION, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+AMSTERDAM GOLD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Steroids, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+ROIDS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+JUICE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PEACE PILLS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HOG, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Dimethyltryptamine, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+DMT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DIMITRI, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+AYAHUASCA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PROPYLPHENIDATE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+POSH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+NOPAINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+METHYLNAPHTHIDATE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+GOGAINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FAKE COCAINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+EVOKE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ETHYLPHENIDATE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHING, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BURST, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BANSHEE DUST, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PLANT FOOD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+NPS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MDAT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ERIC 3, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DIMETHOCAINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BATH SALTS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Benzofuran compounds, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WHITE PEARL, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BENZO FURY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+6-APDB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+6-APB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+5-APDB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+5-APB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+VALLIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+RUGBY BALLS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ROOFIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SINSEMILLA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SENSI, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+RESIN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PUFF, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HERB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DRAW, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BUD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+N-Bomb, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SMILEY PAPER, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BOM-25, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+2C-I-NBOME, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+25I-NBOME, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+25I, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Phenazepam , noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FENAZEPAM, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BONSAI SUPERSLEEP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BONSAI, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+mephedrone, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+WHITE MAGIC, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MIAOW, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MEPH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MEOW MEOW, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MC, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+M-SMACK, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+M-CAT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DRONE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHARGE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BUBBLE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BOUNCE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+4-MMC, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HORSE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ROLEXS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PINK SUPERMAN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PILLS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MITSUBISHI'S, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MANDY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+E, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DOLPHINS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CRYSTAL, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+COWIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BROWNIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+cathinones, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PYROVALERONE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+METHYLONE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MDPV, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MAGIC CRYSTALS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+M1, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BUTYLONE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WHITE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WASH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+TOOT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+STONES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ROCKS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PERCY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PEBBLES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FREEBASE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHING, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHARLIE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHANG, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WHIPPITS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HIPPIE CRACK, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHARGERS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+QAADKA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHAT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PMA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+RED MITSUBISHI, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PMMA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PINK MCDONALDS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PINK ECSTASY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MITSUBISHI TURBO, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+KILLER, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DR DEATH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DOUBLE STACKED, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHICKEN YELLOW, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CHICKEN FEVER, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SYRUP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+NUROFEN PLUS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+NUROFEN MAX, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+COUGH SYRUP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CODIS500, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+YABA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CRYSTAL METH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+2-DPMP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+VANILLA SKY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PURPLE WAVE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+IVORY WAVE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DESOXYPIPRADROL, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+D2PM, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+2-DIPHENYLMETHYLPYRROLIDINE, noun, 0, 1, 0, 0, 0, 0, 0, false, thing
+Etizolam , noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ZOLY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SYLAZEPAM, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PASADEN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MOZUN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+INXITY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ETIZOLA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ETISEDAN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ETILAAM, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ETICALM, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DEZOLAM, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DEPAS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+VITAMIN K, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SUPER K, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DONKEY DUST, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MEXICAN MAGIC MINT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HOLY SAGE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ECLIPSE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+NRG1, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+NRG-1, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ENERGY1, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ENERGY-1, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+opiate painkillers, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+opioid painkillers, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DIAMORPHINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Gabapentin, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+NEURONTIN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+gammahydroxybutrate, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+GBL, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+gammabutyrolactone, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+GEEBS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+GBL, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+GBH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+4-BD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+1, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+TNT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+THRUST, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ROCK HARD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+RAM, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LIQUID GOLD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+KIX, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+AMYLS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Pregabalin , noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LYRICA, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Methadone , noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PHYSEPTONE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MIXTURE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LINCTUS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Mescaline , noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PEYOTE BUTTONS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Methoxetamine , noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ROFLCOPTR, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+RHINO KET, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MXE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MOXY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MKET, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MEXY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MEXXY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+TRIPSTACY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+T-7, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SEVENTH-HEAVEN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+7-UP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+2CT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+2CI, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+2CE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+2CB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Synthetic opioids, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Tryptamines , noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Tramadol, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ULTRAM, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+TRAMAL, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+Benzofuran compounds, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WHITE PEARL, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BENZO FURY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+6-APDB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+6-APB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+5-APDB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+5-APB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+5-IT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+6-IT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+A-BOMB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ACID FREAK, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BASE HEAD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BLUNT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BOMB, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BONG, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+BUZZ, verb, 0, 1, 0, 0, 0, 0, 0, true, action
+BUZZING, noun, 0, 1, 0, 0, 0, 0, 0, true, action
+CHARGED UP, noun, 0, 1, 0, 0, 0, 0, 0, true, action
+CHASING THE DRAGON, noun, 0, 1, 0, 0, 0, 0, 0, true, action
+CRACK FIEND, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+CRACK HEAD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DABBLE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DO A LINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DOOBIE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+DOPE FIEND, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+EIGHTH, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FIENDING, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+FREEBASING, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+GEAR, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HALF, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HEAD SHOP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HENRY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+HOT ROCKS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+IN, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+JACK UP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+K-HOLE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+LOADED, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MAINLINE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+METH HEAD, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MULE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+MUNCHIES, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+OUNCE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PILLING, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+PIPE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+QUARTER, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ROID RAGE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+RUNNERS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SCORE, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SHOOT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+SPEEDBALL, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+STRUNG OUT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+UPPERS, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WASTED, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WHITEY, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+WRAP, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+ZOOT, noun, 0, 1, 0, 0, 0, 0, 0, true, thing
+
+
+shooting gallery
+excessive use of drugs
+	substance abuse syn : substance abuse
+	substance abuse syn : drug abuse
+	substance abuse syn : habit
+=========================================================================================
+ALCOHOL
+-----------------------------------------------------------------------------------------
+LOADED
+Lush
+Orgy syn : orgy
+	Orgy syn : debauch
+	Orgy syn : debauchery
+	Orgy syn : saturnalia
+	Orgy syn : riot
+	Orgy syn : bacchanal
+	Orgy syn : bacchanalia
+	Orgy syn : drunken revelry
+Wet def : very drunk
+	Wet syn : besotted
+	Wet syn : blind drunk
+	Wet syn : blotto
+	Wet syn : crocked
+	Wet syn : cockeyed
+	Wet syn : fuddled
+	Wet syn : loaded
+	Wet syn : pie-eyed
+	Wet syn : pissed
+	Wet syn : pixilated
+	Wet syn : plastered
+	Wet syn : potty
+	Wet syn : slopped
+	Wet syn : sloshed
+	Wet syn : smashed
+	Wet syn : soaked
+	Wet syn : soused
+	Wet syn : sozzled
+	Wet syn : squiffy
+	Wet syn : stiff
+	Wet syn : tiddly
+	Wet syn : tiddley
+	Wet syn : tight
+	Wet syn : tipsy
+	Wet syn : wet
+
+=========================================================================================
+POLITICS
+-----------------------------------------------------------------------------------------
+Lands syn : state
+	Lands syn : nation
+	Lands syn : country
+	Lands syn : land
+	Lands syn : commonwealth
+	Lands syn : res publica
+	Lands syn : body politic
+head
+=========================================================================================
+CHARITY
+-----------------------------------------------------------------------------------------
+=========================================================================================
+GUN
+-----------------------------------------------------------------------------------------
+ACP, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Automatic Colt Pistol, noun, 0, 0, 0, 0, 0, 1, 0, false, thing
+Action, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Backstrap, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Ball, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Ballistics, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Bore Diameter, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Bottle Necked, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Bull Barrel, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Cannelure, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Casing, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Centerfire, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Chamber, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Chamber Throat, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Charger, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Cylinder Stop, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Delayed Blowback, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Double-Action, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+DA, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Double-Action Only, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+DAO, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Dovetail, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Frame, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Front Strap, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+GAP, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Grip, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Gripstraps, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Grooves, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Half Cock, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Hammer Spur, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Hammerless, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+HMR, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Hornady Magnum Rimfire, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Lands, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+LC, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Long Colt, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Long Recoil, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+LR, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Long Rifle, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Mainspring, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Neck, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Open Frame, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Polygonal, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Primer, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Primer Pocket, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Primer Ring, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Receiver, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Recoil-Operated, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Rifling, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Rimfire, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Rimless, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Round, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Semi-Automatic, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Short Recoil, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Single-Action, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Slide, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Slide Lever, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Solid Frame, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Speed Loader, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Topstrap, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Trajectory, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Trigger Bar, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+Trigger Guard, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+.45, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+back bore, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+backbored barrel, noun, 0, 0, 0, 0, 0, 1, 0, true, thing
+bombshell
+mortar
+	howitzers syn : howitzer
+	howitzers syn : trench mortar
+Grenade
+=========================================================================================
+PROFANE
+-----------------------------------------------------------------------------------------
+=========================================================================================
+SEX
+-----------------------------------------------------------------------------------------
+ABC party, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ABC Sex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ablutophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ABR, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Acomoclitic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Acorn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Acrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Acrotomophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Acucullophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Acousticophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Actirasty, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Adolescentilism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Aftermath, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Agalmatophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Age Play, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Agnosexual, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Agonophiliac, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Agoraphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Agrexophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Air Inflation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Airplane Blonde, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Airtight, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Alarm Clock, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Allorgasmia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Allotriorasty, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Alpha Male, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Alphmegamia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Altocalciphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Alvinolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Amaurophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ambisextrous, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Anaclitism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Anal Beads, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Analingus, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass Sphincter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Anasteemaphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Anchor Baby, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Androgynous, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Androidism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Andromimetophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Angry Dragon, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Angry Pirate, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Animism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Anophelorastia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Antholagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Aphephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Apistia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Apolaustic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Apotemnophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Aquaophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Arabian Goggles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Archnephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Arm Candy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Around the World, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Asiaphile, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ASLs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Anus shaped lips, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ass sucking lips, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Asphyxiophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+backyard, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+booty, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bumper, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+caboose, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+candy apples, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+culo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+junk in the trunk, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+heinie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+junk in the trunk, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+heinie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+trunk, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass Licker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass Muncher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass Play, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass Quake, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass State, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass Tray, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass-to-Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ass-to-Mouth, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ATM, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Asstronaut, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Arstronaut, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Asthenolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Aunt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Australian Kiss, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Autagonistophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Autassassinophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Autoandrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Autoerotic Asphyxiation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Auto-Fellatio, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Autogynephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Autonepiophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Avisodomy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Axillism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Babe, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Baby Daddy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Baby Momma, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bachelor's Tuxedo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Backdoor Man, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Backseat Driver, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bacon Strips, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ball Buster, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ball Busting, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ball Gag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ball Game, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Balling on a Budget, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Balloon Knot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Balls Deep, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Banging the Bongos, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bareback, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bareback Rodeo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Barely Legal, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Barnacles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Barse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bathroom Denial, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bathykolpian, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Batting for Both Sides, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Batting for the Other Side, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Batting for the Other team, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bat Wing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+BBBJ, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+BBC, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+BBW, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+BDSM, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Beard, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Beat the Rug, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Beef Bayonet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Beef Hammer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Beef Stick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Beef Curtains, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bee Stings, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bell, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Belonephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bezness Boys, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+BFP, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bound for pleasure, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Biastophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bisecting the Triangle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bisexual, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Bishop, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bitch Tits, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+man boobs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+moobs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bleed, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bloody Vagina Belch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Blow Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Blowie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+BJ, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Blue Balls, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Blue Waffle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Blumpkin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Body Inflation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Boi, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bombshell, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Blonde Bombshell, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Booty Call, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bosom Buddy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bottom Bitch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bottom Girl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bottom Space, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+apples, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+assets, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+babaloos, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+balcony, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bazongas, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bee stings, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bongos, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+boobs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bosom, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bouncers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bra stuffers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+breasticles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bristols, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bumpers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+chest, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+butter bags, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cantaloupes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+chesticles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+chitty chitty bang bangs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cock muffs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cock warmers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+coconuts, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cupcakes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+dirty pillows, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+dual airbags, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+flesh bombs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+flotation devices, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+fun bags, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+gazongas, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+globes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+grapefruits, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+flapjacks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+flesh bombs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hand warmers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hangers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+headlights, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+head rests, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+high beams, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hills, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+honkers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hood ornaments, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hooters, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hot dog buns, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+howitzers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+itty bitty titties, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+jolly jigglers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+jugs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+jumbos, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+kaboobers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+kazongas, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+knobs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+lactoids, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+lemons, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+loaves, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+love bubbles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+love muffins, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+lungs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+mammaries, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+mammies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+mangoes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+man pacifiers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+mangos, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+meatballs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+meat loaves, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+meat puppets, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+melons, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+milk bags, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+milk duds, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+milk jugs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+milk makers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+milkers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+milkshakes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+mosquito bites, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+mounds, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+money makers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+muffins, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+niblets, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+nose warmers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+nubbies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+nubs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+oranges, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+orbs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ottomans, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+pancakes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+paper weights, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+pears, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+personalities, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+pillows, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+pumpkins, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+puppies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+rack, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+rib bumpers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+rib cushions, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+roundies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sandbags, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sauce shelf, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+scones, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+shimmies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+snuggle pups, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+speed bags, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+spheres, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+spuds, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+stacks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+stuffing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sugar lumps, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sun deck, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sweater meat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sweet rolls, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ta tas, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+tee tees, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+tetons, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Thelma and Louise, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+tidbits, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+tooters, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+torpedoes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tweedledee and Tweedledum, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+twin peaks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+twins, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+udders, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+umlauts, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+upper decks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+warheads, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+watermelons, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+whoppers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+window washers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+wobblers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+zeppelin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Breast Expansion, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Breast Man, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Breeder, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bros before Hoes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+birdcage, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+fish market, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+flesh market, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+fucktory, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+girlery, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ladies college, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+nunnery, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+poontang plantation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+red-light house, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Brown Bag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Brown Bagger, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Brown Bag Special, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Butter face, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Brownnoser, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ass licker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ass muncher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+bootlicker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+brownnoser, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+kiss ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+toady, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bug Chasing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bugger Off, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Bum Chum, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Burlesque, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Burping Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Butt Bandit, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+butt Pirate, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ass pirate, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ass bandit, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Butt Plug, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Butt Floss, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Butt Fucker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Butt Slut, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cad, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cage Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Camel Toe, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cardinal George, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Carpet Muncher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Casting Couch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Catcher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Catheterophila, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cat String Theory, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Castration Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cat O' Nine Tails, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Champagne Room, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Charity, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cheese Log, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chesticles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cherry, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chicken, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chick-fil-A, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chicks with Dicks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chicken Hawk, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Choker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Choreophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chrematistophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chrysophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chubby Chaser, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Chuffnuts, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Churning Butter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cinnamon Muff, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cisgender, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cleveland Steamer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Closet Freak, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cluster Fuck, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cockaholic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock and Ball Torture, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+CBT, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+C & B Torture, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock-a-Thon, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock Block, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock Hungry, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock Jockey, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Crotch Jockey, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock Ring, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cocksman, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock Sheath, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock Sleeve, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penis Sheath, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penis Sleeve, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cock Snot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cojones, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Coke Dick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Comarital, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Commando, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Commercial Sex Worker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+CSW, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Community Bike, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Condom Dispenser, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Coochi, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+coochy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+cooter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Coprolalia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Coprophagia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Coprophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cornuto, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cosplay, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Coulrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Counting Games, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cougar, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cowgirl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Crabs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Crack Hustler, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Creampie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Creeping, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cross-Eyed Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Crurophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Crushing Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cubs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cum Bubble, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cum Bunny, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cum Fart, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cum Inflation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cum Target, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cunt Licker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cunt Rag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cupping, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Custard Launcher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cutting Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cyber Sex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Cypriphobia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dacryphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Daddy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Daisy Chain, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dandy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Danglers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Deal Breaker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Debauchee, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Deep Throating, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Degradation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Demimonde, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dendrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Denial, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dental Dam, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Devil's Threesome, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Devotee, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Diaper Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+dick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dick Beater, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dick Cheese, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dickery, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dick Face, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dine at the Y, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dine In, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dingle Berries, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DINK, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dinner for Two, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dippoldism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dirty Harry, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dirty Knees, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dirty Pillows, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dirty Sanchez, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dirty Swirly, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Discipline, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Disco Stick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dishabille, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dishonorable Discharge, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DJ Diddles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DNA, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+“Dick in ass.”, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Doggy Style, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dogs in a Bathtub, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dog Training, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dog Treat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dolphin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dominance and Submission, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+D&S, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dominant, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Donkey Punch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Donkey Show, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Donkey Rigged, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Donut Puncher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Doorknob, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dopplebangers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Coyote Ugly, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Sided Dildo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Doraphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Bagger, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Bagging, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Bedder, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Blowjob, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Fisting, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Header, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Double Shot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Douche, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Douche Bag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Douchebaguette, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Douche Cannon, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+douche Nozzle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Douche Packer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Down Low, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DL, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Downtown, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Doxy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DP, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dracophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dream of Cream, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Drilldo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dry Humping, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dry Spell, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DSLs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DTF, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+D Train, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dual Airbags, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dump, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dust Under the Bed, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dutch Girl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dutch Rudder, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+DVDA, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dysmorphophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Dyspareunia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Eager Beaver, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Earmuffs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Earn One’s Redwings, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Eat Out, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ecouteurism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Effie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Eiffel Tower, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Electric Chair, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Electrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Electro-Stimulation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+E-Stem, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Electrosex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Emetophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Endytophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Energizer Bunny, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Engayed, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ephebophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Eproctolagniac, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Erotographomania, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Erotophobia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Erotophonophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Eskimo Brothers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Etch-A-Sketch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Eunoterpsia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+European Steamboat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Eye Fucking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Face Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+face Fucking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Facial, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Factory Equipped, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fag Hag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fag Fucker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fagulus, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Farticles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fascinus, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+fascinum, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fat Admirer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+fat Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fat Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fatty, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Father Complex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+FBE, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Feederism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Feedism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Feeding Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Forced Feeding, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Feeding the Kitty, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Felch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Feltch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Female Masking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Female Muscle Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Femanal, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fem-bot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Feminazi, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Feminista, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Femme, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fish Flaps, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fish Taco, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fisting, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+FILO, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+FINE, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Finger, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Finger Bang, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Blast, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Firecrotch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flagellation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flamer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flash, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flash the Headlights, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flatulophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flapjacks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flip Flop, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flood the Cave, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Flossing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fluffer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fluff the Muff, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fly Fisherman, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fly Fishing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fog the Windows, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Food Denial, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Water Denial, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Foot Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Foot Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Formicophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fourgy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Four on the Floor, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fourth Base, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Franken Pussy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Franken Penis, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+French Bread, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+French Embassy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+French Horn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Freud Stick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Frictation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Friend of Dorothy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Friend's With Benefits, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+FWB, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Frotteurism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Frot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fruit Cup, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+FTM, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+F2M, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuckable, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck Buddy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck Butter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck Hole, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck Slam, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck Stick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck Rod, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck pole, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fuck Tard, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fucktarded, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fucktory, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fudge Packer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Full House, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Full Sail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Functional Homosexual, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+FUPA, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fur Ball, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Fur Burger, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+fur Pie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Furry, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Furvert, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Futanari, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gagging, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gag Gift, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gag Reflex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gaining, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Game Show Host, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gangbang, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ganymede, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gape, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Garbage Canning, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gay Cancer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gaydar, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gay for Pay, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gaynal, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gender Bender, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gerbiling, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gerbil-stuffing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gerontophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Get Your Dick Wet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Get Wet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+GGG, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+GGirl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ghetto Booty, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gift Giver, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+GILF, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Girls, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Girlfriend Proof, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Girlfriend Voice, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Girl-rilla, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Girlvert, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Glamazon, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Glass Bottom Boat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Glass Slipper of our Generation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Glazed Donut, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Glory Hole, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Goat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gob Stoppers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gokkun, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gold Digger, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Golden Shower, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gonzo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Goo Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gooch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gorilla Mask, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gray Fox, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Grey Fox, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Greek Sex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Greet and Meat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Grenade, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Grindhouse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ground and Pound, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Group Grope, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Growler, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Grrl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Grundle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+G-String Jockey, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Guilt Sex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gumball Machine, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gunt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gun Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Guppie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Guppy Face, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gurl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Guro, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gusher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Guybrator, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Guy with a Pie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+GWC, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gymnophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gynecomania, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Gynemimetophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Haematomania, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hematolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hag Fag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Half & Half, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ham and Cheese Sandwich, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hamartophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+HJ, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Handlebars, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hand to Gland Combat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hand Relief, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Happy Ending, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Happy Shopper, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Happy Trail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Haptephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+He-Blow, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Heeldo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hedgehogging, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Heifer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Heisman, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Helicopter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hentai, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hematolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hershey Highway, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hessian, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Heteroflexible, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hiber-Dating, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hierophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+High Dive, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+High Maintenance, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hiking the Appalachian Trail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Himbo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hiroshima, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hirsutophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ho, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hoe, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hodophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hog Hunting, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hogging, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hole in One, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Home Wrecker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Homilophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Honey in the Hips, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hogging, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hog Hound, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Honeymoon Phase, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hood Ornament, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hoover, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hooze Bag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hoozie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Horizontal Mambo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Horizontal Tango, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Horse and Carriage, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hot Dog in a Hallway, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hot dog down a Hallway, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hot Lunch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+hot Karl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hot Pocket, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hot Sauce Surprise, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Houdini, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Howdy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Humiliation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hummer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hump ‘em and Dump ‘em, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hump the Dump, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hung / Hung like a Horse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hung like a Hamster, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hung like a Zebra, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hybristophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hygrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hyper Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hypersexual, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hyphephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Hypoxphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ice Cream Sandwich, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Immobility Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Impregnation Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Inchworm, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Indian Cockburn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Infantilism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Inflation Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ingénue, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+In Heat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Inter-coarse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Inter-corpse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Inter-course, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Internal Astronaut, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Icolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+In Door Sports, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+In Flagrante Delicto, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+ISO, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Irish Kiss, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Irish Toothache, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Italian Stallion, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ivy League Rub, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jackal, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jackhammer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jack-in-the-Box, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jack Johnson, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jalapeño Finger Poppers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jam Out With Your Clam Out, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Janitor, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jawbreaker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jelly Belly, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jersey Turnpike, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jizz, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jizz Whistle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+JO, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Johnny Bench Called, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Joined at the Dick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Joined at the Groin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Joy Juice, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jumping on the Grenade, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jump Start, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Jungle Fever, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Junk in the Trunk, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Just the Tip, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kentucky Fried Dicking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Keptie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Key Party, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kicking the Tires, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kigurumi, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kinesophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Klingons, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kiss Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kleptophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Klismaphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Knee Trembler, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Knismolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Knismo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Knissophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Kooch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+koochi, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+koochy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Koro, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lace Curtain, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lactation Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lactoids, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lactophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lady Boner, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Landing Strip, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Leather Cheerio, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lesbophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lemon Tart, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lexis, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Liberace, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Libertine, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lick the Bowl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lick the Jar, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Light in the Loafers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Limp Biscuit, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Limp Wristed, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lip Crispies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lipstick Lesbian, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Liptease, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Load, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lobster, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lock Crotches, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lollipop Stop, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+London Bridge, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Look Both Ways, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Looner, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Looning, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Loose Change, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lorena Bobbit, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lot Lizard, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Love Glove, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Love Muscle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Love Wand, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lube the Tube, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+LUG, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lunch Break, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lunch Meet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lunch Meat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Luncher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Luppie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lush, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mack, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mack Daddy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Macro Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Macrogenitalism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Macrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Madame, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Magic Wand, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+magic Stick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mail Order Bride, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+make Babies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+make It, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+make Whoopee, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Manal, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mandy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mangina, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Man Hole Cover, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mantsy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Manwich, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Marital Aid, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Maschalagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mature, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+MBA, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Meal On Wheels, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Meat Hound, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Meat Market, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mechanophila, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Medical Play, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Medusa, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Megalophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Melolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Melon Dive, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Melon Smuggler, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ménage à Trois, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Menglish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Menthol, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Merinthophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Merkin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Metrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Micro Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Midnight Cowboy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mighty Mouth, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+MILF, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Milking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mister Reliable, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mixophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mofo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Money Shot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Monday Morning Rebound Syndrome, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Monkey Wrench, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Monster Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Moose Knuckle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Moped, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Morning Wood, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Morphophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Moses, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Motorboat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mouth is Mightier than the Sword, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mowing the Backyard, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mr. Bluevein, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mr. Fantastic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mr. Goodbar, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mr. Goodwrench, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mr. Winky, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+MTF, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+M2F, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mud Flaps, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mud Shark, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mud Whistle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Muff, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Muff Diver, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Muff Diving, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Multiple Body Parts, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mumbler, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mummification, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Municipal Cockwash, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mysophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mystery Bus, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mystery Taxi, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nacho, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nacho Salad, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Narratophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nasophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+NBR, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Newcummer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+New York Taco, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Non-Con, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nooner, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Normophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Novice, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nubs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nullo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nut Huggers, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nut Sack, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nyataimori, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Nyctophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Obscenity, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Objectum Sexuality, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Objectophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ochlophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Oculolinctus, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Oculophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Odaxelagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Odontophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+O Face, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+An Old Fashion, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Olfactophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Omelet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+One Night Stand, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Omega Male, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Open Relationship, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ophidicism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Oregon Trail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Orgasm Denial, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Orgy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Osculate, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Osmolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Oviposition, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ozolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Packing a Gun and a Holster, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Padding, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Painal, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pain Play, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Paint Brush, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Painted Lady, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Paratrooping, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pareunia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Parthenophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Partialism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Parting the Red Sea, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pasadena Mudslide, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Patty Cake, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+PAWG, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Paying the Rent, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+PDA, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Peanut Butter and Jelly Sandwich, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pearl Necklace, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pearl Tramp Stamp, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pediophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pecattiphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pegging, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penguin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penicorn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penis Elbow, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penis Humiliation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penis Puffer, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Penivore, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Peodeiktophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Perv, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pescatarian Fag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pescatarian Porn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Peter Pan, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pet the Poodle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Phallophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Philemaphobia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Phobophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Phygephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Picasso Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pictophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pig Roast, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pig Sticking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pile Driver, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pillow Biter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pillow Princess, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pimp Check, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pink Posse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pink Sock, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pin the Tail On the Donkey, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pinup, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pin-Up, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Piquerism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Picquerism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pirate Treasure, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pitch a Tent, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pitcher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pit Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pity Fuck, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Plating, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Play Action Fake, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Play Chopsticks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Playing the Skin Flute, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Plow, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Plushies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Plushophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+PNP, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pocket Pool, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Podophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Poke, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pole Smoker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Polyiterophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Polyphallic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Poofter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Poon, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Poonani, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Poonany, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Poontang, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Poontang Plantation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Popcorning, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Popinjay, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pop the Cherry, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Porking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pornocchio, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pornstache, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Porn Storm, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Possum, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Postage Slot, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pound, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Psychrocism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pregnancy Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Premature Evacuation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Premarital Sex, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Prick Peddler, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Prick Pusher, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pricknic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Princeton Rub, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Procrasterbating, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Prostiboots, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pubephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pudding Pop, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Punch Drunk Love, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pug Noshing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pull the Goalie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Puma, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Puppet Show, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Purple Mushroom, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pushing Rope, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pussy Licking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pussy Magnet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pussy Whipped, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pweenis, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pygmalionism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pygophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pyrolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Pyrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Quatro Train, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queef, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queening, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queer as a Three Dollar Bill, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queer Bait, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queer Goggles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Queer Hole, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Quickie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Quick Lube, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Quim, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Racing Stripe, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rack, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rainbow Kiss, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Raincoat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rake, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ram, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Raptophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Raw Jaw, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ray-Bans, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rear Admiral, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Red Wings, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Retifism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Reverse Cowgirl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Reverse Missionary, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Reverse Swallow, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rhabdophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rhythm Method, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rimmadonna, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rimming, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rim Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ring the (Back) Doorbell, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Road Head, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Robotism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Robot Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rod, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rodeo, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rod Rash, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rolling Dutch Oven, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Roman Helmet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Roman Shower, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Roue, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rowdy Roddy Pipper, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rubber Fuckie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rub One Out, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rump Raid, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Rusty Trombone, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Saddlebacking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Saddle Up, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+SNM, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+S&M, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Saline Balls, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Salirophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Salami, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sandwich, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Santorum, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sascrotch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sauce Shelf, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sausage Party, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sausage Fest, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sausage Sandwich, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scabrous, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scatophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Schlong, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scopophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scoptophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scotophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scissoring, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Scissor Fight, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Srote, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Semen Sneeze, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Semi, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Seventy-One, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+71, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sexercise, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sexercism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sex Machine, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sexomnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sexpert, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sextasy, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sexting, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shagbag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shagable, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shame Shower, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shark Fin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shark Week, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+She-Male, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shirley Temple, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shit Dick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shit Hole, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shocker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shop Vacuum, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Short and Curlies, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Shrimping, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Siderodromophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sideways Smile, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sitophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Simba, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Lion King, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sin Hole, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sixty-Eight, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+68, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Size Queen, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Skank, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Skeet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Skid Marks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ski Poles, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Skull Fuck, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Skuntch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slave, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slhore, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slime Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slob on the Knob, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slore, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slot B, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slumming, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slump, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slump Buster, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slunt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Slurry Bucket, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+SMD, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Smegma, noun, 1, 0, 0, 0, 0, 0, 0, false, thing
+Snail Trail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Snape, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sneezing Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Snow Balling, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Snuff, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Solicitation, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Somnophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sounding, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Soup Kitchen, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Space Docking, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spank the Monkey, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Special Purpose, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spectrophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sphinx, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spiderman, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spider Webbing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spill one's Seed, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spinner, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spit Fuck, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spit Gameh, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spit Roast, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Splooge, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sploshing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spread Eagle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spunk, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Spunk Bucket, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Squashing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Squirt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Squirter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Starfish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Steely Dan, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stench Trench, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stiffie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stigmatophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stinker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stomach Pancakes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stranger, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stranger on the Rocks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Starfish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Starfish Trooper, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Strap-On, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stride of Pride, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stud Muffin, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Stuffing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Submissive, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sub, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+subbie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Suck Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Suck Face, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Suck Off, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sugar Baby, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sugar Lumps, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sugar Plumbs, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+sugar Tits, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sugar Momma, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Superman, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Surfing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Surfing the Crimson Tide, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Swamp Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Swan Sauce, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sweater Meat, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Swimming in the Red Sea, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Switch Hitter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Swoop & Scoop, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sword, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sword Fighting, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sybarite, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Sybian, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Symphorphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Taco, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tadpole, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Taint, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Taking the H/B Train to J Town, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tallywhacker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tamakeri, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tampon, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tantalolagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Taphephilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tap that Ass, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Teabag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Team Cream, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Technophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Telephonicophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ten Pinter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tentacle Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tequila Golden Shower, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Teratophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+T-Girl, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Thesauromania, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Thick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Thigh Gap Porn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Three-Hole Par, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Threesome, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Thunder Cunt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tickle Torture, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tickling Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+TILF, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Timophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tinkering Under the Hood, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Titanic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Titty Bar, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Titty Fuck, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+TNA, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Token Resistance, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tongue Punch, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tonsil Exam, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Toolbox, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tooth Whitening Treatment, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Top, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tortoise, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tossing a Salad, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Town Bike, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tranny, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Transformation Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+TF, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Treasure Trail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Trichophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Triolism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Troilism, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tripsolagnophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Trisexual, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Trojan Horse, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tropical Jungle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tryke, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tuck Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tug Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tummy Sticks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tuna Can, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Tuna Melt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Turd Burglar, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Turkish Water Boarding, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Turn Tricks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Turtle Head, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Twink, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Twisted Sister, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Two-Dick Mouth, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Two in the Pink and One in the Stink, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Two Squeezes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Udder Nonsense, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ugly Duckling Syndrome, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Umbrella, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Umlauts, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Unbirthing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Unbutton the Mutton, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Uncle Fucker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Unclog the Drain, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Under Boob, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Underwear Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Up Skirt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Urethra Play, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Urolangia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Urophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ursusagalmatophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Urtication, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Uteromania, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Uxorious, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vacation Amnesia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vacuum Beds, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vacuum Cubes, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vagina Extender, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vagina Tightener, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vagina Spaghetti, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vagitarian, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vajabond, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Va-j-j, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vajayjay, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vajaja, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vjayjay, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vajazzle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Van Dyke, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vanilla, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vart, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+queef, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vatican Roulette, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+V Card, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Venery, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Venus with a Penis, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Ventriloquist, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vertical Smile, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vibrator, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+crotch rocket, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+love wand, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+magic wand, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+magic stick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+marital aid, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Mr. Fantastic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+rubber fuckie, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+steely dan, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+weed wacker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vicarphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vick's Vaporlove, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Viennese Oyster, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vincilagnia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Voluptuary, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vomit Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vore, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Voraphilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+V-Point Relationship, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Vulvodynia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wail Away, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Walk like Tarzan, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Talk like Jane, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Walk of Shame, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Walrus, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wang, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wank Off, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wank Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+War Wound, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Water Sports, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wedding Tackle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Weed Wacker, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Weenis, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Weiner, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Well Endowed, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Well Hung, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Western Grip, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wet, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wet & Messy Fetish, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whack It, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whack Off, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whale Eye, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whale Tail, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whaling, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whiff of Lavender, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whisker Basket, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whisker Biscuit, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whiskey Dick, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+White Honey, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whore Bag, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whore Exchange, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whorelock, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whoreship, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whoriental, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Whispering Eye, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wide Stance, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wingman, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Wizard's Sleeve, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Womyn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Woody, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Woody Allen, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Woofter, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Xenophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Xeronisus, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+XXX, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Triple X, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+XDR, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Xenofuckic, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+XericYard Sale, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Y, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yank, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yank the Doodle, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yank the Crank, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yank the Plank, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yank the Yam, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yearn, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yeastiality, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yeasty Buns, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yellow Fever, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yellow Shower, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yestergay, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yiffing, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yodeling in the Canyon, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yodeling in the Gully, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yogurt, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yoni, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Yucatán Peninsula, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zelophilia, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zentai, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zepplins, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zero, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zipper, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zipper Sparks, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zipper Sex, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zipper Dinner, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Z-Job, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zombie Mask, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zwischenstufe, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+Zoosexual, noun, 1, 0, 0, 0, 0, 0, 0, true, thing
+=========================================================================================
+PROFANITY
+-----------------------------------------------------------------------------------------
+cunt
+	Twat syn : puss
+	Twat syn : pussy
+	Twat syn : slit
+	Twat syn : snatch
+	Twat syn : twat
+fathead
+	Twat syn : goof
+	Twat syn : goofball
+	Twat syn : bozo
+	Twat syn : jackass
+	Twat syn : goose
+	Twat syn : cuckoo
+	Twat syn : twat
+	Twat syn : zany
+obscenity
+	Obscenity syn : smut
+	Obscenity syn : vulgarism
+	Obscenity syn : filth
+	Obscenity syn : dirty word
+butt
+	Goat syn : goat
+	Goat syn : laughingstock
+	Goat syn : stooge
+Coprolalia
+bum
+rotter
+dirty dog
+	bum syn : rat
+	bum syn : skunk
+	bum syn : stinker
+	bum syn : stinkpot
+	bum syn : bum
+	bum syn : puke
+	bum syn : crumb
+	bum syn : lowlife
+	bum syn : scum bag
+	bum syn : so-and-so
+	bum syn : git
+dickhead
+asshole
+bastard
+cocksucker
+dickhead
+shit
+mother fucker
+motherfucker
+prick
+whoreson
+son of a bitch
+SOB
+Boobs syn : dumbbell
+	Boobs syn : dummy
+	Boobs syn : dope
+	Boobs syn : boob
+	Boobs syn : booby
+	Boobs syn : pinhead
+mammies
+Butch
+dike
+dyke
+fagot
+	Fag syn : faggot
+	Fag syn : fag
+	Fag syn : fairy
+	Fag syn : nance
+	Fag syn : pansy
+	Fag syn : queen
+	Fag syn : queer
+	Fag syn : poof
+	Fag syn : poove
+	Fag syn : pouf

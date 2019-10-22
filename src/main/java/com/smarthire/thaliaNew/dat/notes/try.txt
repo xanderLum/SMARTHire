@@ -1,0 +1,33 @@
+[name, postag, sexRelatedPnt, drugRelatedPnt, alcoholRelatedPnt, politicsRelatedPnt, charityRelatedPnt, gunRelatedPnt, profaneRelatedPnt, isAmbiguous]
+
+
+
+np iv
+np tv np
+np tv np np
+np lv np
+np lv adj
+np tv np np/adj
+
+--------------------------------------------
+--------------------------------------------
+np ( \+ np)* iv ( \+ iv)( \+ np ( \+ np)* iv ( \+ iv))*
+np ( \+ np)* tv ( \+ iv) np ( \+ np)*( \+ np ( \+ np)* iv ( \+ iv))*
+
+
+> alcohol, drug, gun, charity
+keyword is either in ...
+ 1. subject
+	-> verb is positive or negative
+ 2. verb
+	-> subject or indirect object should be first person
+ 3. direct object
+	-> subject or indirect object should be first person
+	-> verb is positve or negative
+ 4. predicate noun
+ 	-> subject or indirect object should be first person
+	-> verb is positive or negative
+ * adjective 
+> else
+ 1. polarity in verb...
+ 2. haskeyword will be multiply to the equation....
