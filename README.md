@@ -1,6 +1,6 @@
 # SMARTHire
 ## (Social Media Analytics in Recruitment & Talent Acquisition)
-Checkout /output/*.xls files to see sample backend processes for raw data to clean data and classifying them into categories
+Checkout /output/*.xls files to see sample backend processes of raw data to clean data by the application and classifying them into categories
 
 ![Alt text](/screenshots/SMARTHire_Abstract.jpg?raw=true "Abstract")
 
